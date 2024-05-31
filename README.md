@@ -82,7 +82,6 @@ http://starshare.live:8080/live/T20C227070225533/202210886677/17565.ts
 
 
 
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/90GBNXPX/A-Sports-HD.jpg",A Sports
 
 
@@ -747,7 +746,7 @@ https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/vH3MKVPY/CNN.jpg",CNN (US)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 group-title="News",DW NEWS 
+#EXTINF:-1 group-title="News", DW NEWS 
 
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/kcMUGOE.jpg",GLOBAL NEWS (US)
