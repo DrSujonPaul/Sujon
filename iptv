@@ -429,8 +429,8 @@ http://opplex.tv:8080/live/2312211/1616616/221259.ts
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",SONY MAX HD
 https://cdn.sajeeb.online/hotflixbd/Sony-MAX/index.m3u8
 
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/Bv9fcHFK/Sony-Max-2.jpg",SONY MAX 2
-
+#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/Bv9fcHFK/Sony-Max-2.jpg",BOLLYWOOD HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/9QXL3Mjn/Sony-PAL.jpg",SONY PAL
 http://xtv.ooo:8080/live/logixs1176/logixs7562/104192.ts
