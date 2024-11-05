@@ -4,7 +4,7 @@
 https://tsports.iptvbd.xyz/master_1080.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD
-http://bd.ottbd.online:2082/live/rozario859/01327184859/2.ts
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=vloE0t4TtACJAQ3VjSXt9A&expires=1730957107&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD
 http://bd.ottbd.online:2082/live/rozario859/01327184859/12896.ts
@@ -161,10 +161,10 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://mtlivestream.com/asian/ytlive/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/ZqPGzW3x/ATN-Bangla.jpg",ATN Bangla
-http://bd.ottbd.online:2082/live/rozario859/01327184859/2341.ts
+https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=u3QvjkpvAhKk_YOkGdaPpA&expires=1730957060&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/ZqPGzW3x/ATN-Bangla.jpg",ATN News
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/live-orgin/atnws-sg.stream/chunks.m3u8
+
 
 ##EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/ZqPGzW3x/ATN-Bangla.jpg",ATN News
 https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=t2pNi2uXX3Stc5GtxQEvUA&expires=1730957062&user=d477246e9e724f81a011b847457e71c4
@@ -176,7 +176,7 @@ https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=t2pNi2uXX3Stc5
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/Jnd8st5d/Bangla-21-TV.jpg",Bijoy TV
-
+https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=4Wf05Mjnwxl0qjOCIymDpQ&expires=1730957073&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/Sxq6KGNR/Banglavision.jpg",Banglavision
 http://bd.ottbd.online:2082/live/rozario859/01327184859/2343.ts
@@ -188,13 +188,13 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/NFq4kvY7/BTV-World.jpg",BTV World
-http://172.105.123.238:18002/play/a038
+
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/KvGh8gmx/Channel-Europe.jpg",Channel Europe
-https://static.jagobd.com.bd/live-orgin/channeli-8-org.stream/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/tJq1jBzG/Channel-i.jpg",Channel I
-http://bd.ottbd.online:2082/live/rozario859/01327184859/2348.ts
+https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=WeEBBGReHRPLjj7th-cMOA&expires=1730957081&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/fb5nP5k9/Channel-S-UK.jpg",Channel S UK
 
@@ -224,13 +224,13 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 http://208.86.19.13:81/514.stream/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/t4cxjxRj/Deshi-TV.jpg",Ekattor TV
-https://static.jagobd.com.bd/live-orgin/ekattor.stream/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/t4cxjxRj/Deshi-TV.jpg",Ekattor TV
 http://103.205.133.71/EkattorFHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/G2XchN1w/Ekhon-TV.jpg",Ekhon TV
-https://static.jagobd.com.bd/live-orgin/globaltv.stream/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/Nj5XJGD8/Ekushe.jpg",Ekushe ETV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -269,7 +269,7 @@ https://mytvbangla.com/0.m3u8
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/QCQfYVXK/Nagorik-TV.jpg",Nagorik TV
-
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=EgR9pd_BBHXPOo1eZ-JChA&expires=1730957099&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/d0Kzg7Hb/NAN-TV.jpg",NAN TV
 
@@ -278,7 +278,7 @@ https://mytvbangla.com/0.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/YSW-TH7zZ/Nexus-TV.jpg",Nexus TV
-
+https://edge01.iptv.digijadoo.net/live/nexus_tv/playlist.m3u8?md5=RYV6kEj880unKupod6qGJw&expires=1730957101&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/Bv2XGwTm/Nobanno-TV.jpg",Nobanno TV
 
