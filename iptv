@@ -182,7 +182,7 @@ https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=4Wf05Mjnwxl0qj
 http://bd.ottbd.online:2082/live/rozario859/01327184859/2343.ts
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/vBW8D5m8/Boiskakhi.jpg",Boishakhi TV
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=SAhtG8ojr4XMFBP-mrYvnQ&expires=1730957074&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/NFq4kvY7/BTV-World.jpg",BTV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/live-orgin/btvbd-office-sg.stream/chunks.m3u8
