@@ -290,7 +290,7 @@ https://edge01.iptv.digijadoo.net/live/nexus_tv/playlist.m3u8?md5=RYV6kEj880unKu
 https://cdn.ncare.live/live-orgin/ruposhibangla.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/Qdr7mnkW/RTV.jpg",RTV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/live-orgin/rtv-sg.stream/chunks.m3u8
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/HW5LFNtR/Rajshani-TV.jpg",Rajdhani TV
 https://rajdhani.jaagobd.com/rajdhanitv/rajdhanitv.stream/chunks.m3u8
