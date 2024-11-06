@@ -613,6 +613,9 @@ https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
+
+http://119.152.240.15:8001/play/a0br/index.m3u8
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Nick Junior
 http://212.102.60.231/NICK_JR/index.m3u8
 
