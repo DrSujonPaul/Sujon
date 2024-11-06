@@ -431,16 +431,16 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 http://bd.ottbd.online:2082/live/rozario859/01327184859/2189.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Max 2
+http://119.152.240.15:8001/play/a0j7/index.m3u8
 
-
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/yYmcX2Ds/Sony-SAB-HD.jpg",Sony SAB
-http://bd.ottbd.online:2082/live/rozario859/01327184859/9727.ts
+#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/yYmcX2Ds/Sony-SAB-HD.jpg",Sony Pal
+http://119.152.240.15:8001/play/a0h1/index.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony TV
-http://bd.ottbd.online:2082/live/rozario859/01327184859/396.ts
+http://119.152.240.15:8001/play/a0h0/index.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/QCGRcWyM/Star-Bharat-HD.jpg",Star Bharat HD
-
+http://119.152.240.15:8001/play/a0jl/index.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/RhgbbqFx/Star-Gold.jpg",Star Gold HD
 http://bd.ottbd.online:2082/live/rozario859/01327184859/9094.ts
