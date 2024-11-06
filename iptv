@@ -1,6 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD
+https://hotflixbd.online/tsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD
 https://tsports.iptvbd.xyz/master_1080.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD
@@ -8,6 +11,12 @@ https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=vloE0t4TtACJAQ
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD
 http://xtv.ooo:8080/live/927382370/837382809/167590.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/ZqCRJXN2/Willow-HD.jpg",Willow HD
+https://hotflixbd.online/willow-cricket/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",GTV HD
+https://hotflixbd.online/gtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/qMtBrnST/Astro-Cricket.jpg",Astro Cricket
 
@@ -43,7 +52,7 @@ http://119.152.240.15:8001/play/a0hk/index.m3u8
 http://119.152.240.15:8001/play/a0av/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg",Sony Sports 2 HD
-http://119.152.240.15:8001/play/a0bp/index.m3u8
+http://tv.cloudcdn.me/00:1A:79:07:07:43/SN_1697176355/290
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3xXCW92d/Sony-Sports-3-HD.jpg",Sony Sports 3 HD
 
