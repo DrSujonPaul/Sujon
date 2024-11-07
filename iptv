@@ -111,7 +111,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://mtlivestream.com/asian/ytlive/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/ZqPGzW3x/ATN-Bangla.jpg",ATN Bangla
-https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=u3QvjkpvAhKk_YOkGdaPpA&expires=1730957060&user=d477246e9e724f81a011b847457e71c4
+http://103.175.242.10:8080/08-Atnbangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/ZqPGzW3x/ATN-Bangla.jpg",ATN News
 http://103.175.242.10:8080/19-Atnnews/tracks-v1a1/mono.m3u8
