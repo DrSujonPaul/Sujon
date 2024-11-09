@@ -111,7 +111,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://mtlivestream.com/asian/ytlive/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/ZqPGzW3x/ATN-Bangla.jpg",ATN Bangla
-http://103.175.242.10:8080/08-Atnbangla/tracks-v1a1/mono.m3u8
+http://ktv.im:8080/live/873747737/637763736/83782.ts
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/ZqPGzW3x/ATN-Bangla.jpg",ATN News
 http://103.175.242.10:8080/19-Atnnews/tracks-v1a1/mono.m3u8
@@ -260,11 +260,19 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
 
 
+
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
+http://ktv.im:8080/live/873747737/637763736/83749.ts
+
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
 http://xtv.ooo:8080/live/Jawad1994/03112371534/245898.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
 http://tv.cloudcdn.me/00:1A:79:07:07:43/SN_1697176355/116
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
+http://ktv.im:8080/live/873747737/637763736/83766.ts
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
 http://xtv.ooo:8080/Jawad1994/03112371534/245893
@@ -279,13 +287,13 @@ http://xtv.ooo:8080/Jawad1994/03112371534/245906
 http://103.175.242.10:8080/23-Jalshamovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/DZkPVJfM/Zee-Bangla-Cinema.jpg",Zee Bangla Cinema
-http://103.175.242.10:8080/zee-bncinema/tracks-v1a1/mono.m3u8
+http://ktv.im:8080/live/873747737/637763736/83768.ts
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/662vVv5x/ABP-Ananda.jpg",ABP Ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/Wbkn7K32/Akash-Aath.jpg",Akash Aath
-
+http://ktv.im:8080/live/873747737/637763736/83770.ts
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/MZQcv8Hm/Bangla-Jago.jpg",Bangla Jago
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
@@ -303,7 +311,7 @@ https://cdn3.pishow.tv/live/283/master.m3u8
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/3wPnKf19/Sony-Aath.jpg",Sony Aath
-http://103.175.242.10:8080/25-Sonyaath/tracks-v1a1/mono.m3u8
+http://ktv.im:8080/live/873747737/637763736/83772.ts
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
@@ -311,9 +319,8 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg",Zee 24 Ghanta
 
 
-
-
-
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg",Ruposhi Bangla
+http://ktv.im:8080/live/873747737/637763736/83773.ts
 
 
 
@@ -453,7 +460,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 https://cdn3.pishow.tv/live/279/master.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/HxPhL5Lr/Showven.jpg",Gaan Bangla
-http://103.175.242.10:8080/gaanbangla/tracks-v1a1/mono.m3u8
+http://ktv.im:8080/live/873747737/637763736/83806.ts
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/tC3qfCTK/ATN-Music.jpg'',Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
@@ -527,7 +534,7 @@ https://dplus.gammacdn.workers.dev/videos/113.m3u8
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duronto TV
-
+http://ktv.im:8080/live/873747737/637763736/83811.ts
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",GDM
 https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
