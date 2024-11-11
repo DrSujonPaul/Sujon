@@ -265,8 +265,8 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
+http://103.175.242.10:8080/starjalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
 http://ktv.im:8080/live/873747737/637763736/83749.ts
