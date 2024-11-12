@@ -126,7 +126,7 @@ http://ktv.im:8080/live/873747737/637763736/83792.ts
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/Jnd8st5d/Bangla-21-TV.jpg",Bijoy TV
-
+http://rolextv.asia/live/12345/54321/27769.ts
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/Sxq6KGNR/Banglavision.jpg",Banglavision
 http://103.175.242.10:8080/banglavision/tracks-v1a1/mono.m3u8
@@ -150,10 +150,10 @@ http://ktv.im:8080/live/873747737/637763736/83784.ts
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/0NzFtxgL/Channel-9.jpg",Channel 9
-
+http://rolextv.asia/live/12345/54321/27790.ts
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/C1CCfh6n/Channel-24.jpg",Channel 24
-
+http://rolextv.asia/live/12345/54321/27755.ts
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/BQzrR9JZ/DBC-News.jpg",DBC News
 http://ktv.im:8080/live/873747737/637763736/83803.ts
@@ -162,7 +162,7 @@ http://ktv.im:8080/live/873747737/637763736/83803.ts
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/t4cxjxRj/Deshi-TV.jpg",Desh TV
-
+http://rolextv.asia/live/12345/54321/27758.ts
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/h48D881V/Deshe-Bideshe.jpg",Deshe Bideshe
 
