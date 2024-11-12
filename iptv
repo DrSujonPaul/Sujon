@@ -159,7 +159,7 @@ http://ktv.im:8080/live/873747737/637763736/83784.ts
 http://rolextv.asia/live/12345/54321/27790.ts
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/C1CCfh6n/Channel-24.jpg",Channel 24
-http://rolextv.asia/live/12345/54321/27755.ts
+https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/BQzrR9JZ/DBC-News.jpg",DBC News
 http://ktv.im:8080/live/873747737/637763736/83803.ts
@@ -177,7 +177,7 @@ http://rolextv.asia/live/12345/54321/27758.ts
 http://208.86.19.13:81/514.stream/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/JzDLh7pB/Ekattor.jpg",Ekattor TV
-http://ktv.im:8080/live/873747737/637763736/83804.ts
+https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/G2XchN1w/Ekhon-TV.jpg",Ekhon TV
 
@@ -249,7 +249,7 @@ http://ktv.im:8080/live/873747737/637763736/83796.ts
 http://ktv.im:8080/live/873747737/637763736/83824.ts
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/hvcWR1Yz/Somoy-TV.jpg",Somoy TV
-http://ktv.im:8080/live/873747737/637763736/83781.ts
+https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/PJQGM1kf/Time-TV.jpg",Tara TV
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
