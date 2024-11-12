@@ -316,6 +316,9 @@ https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/Wbkn7K32/Akash-Aath.jpg",Akash Aath
 http://ktv.im:8080/live/873747737/637763736/83770.ts
 
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/Wbkn7K32/Akash-Aath.jpg",Amar Digital
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/MZQcv8Hm/Bangla-Jago.jpg",Bangla Jago
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 
