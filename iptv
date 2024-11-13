@@ -140,7 +140,7 @@ http://ktv.im:8080/live/873747737/637763736/83805.ts
 http://bapatv.live:8080/hls/channel24/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/BQzrR9JZ/DBC-News.jpg",DBC News
-http://ktv.im:8080/live/873747737/637763736/83803.ts
+http://bapatv.live:8080/dbc/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/L6WP5g60/Deepto-TV.jpg",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
