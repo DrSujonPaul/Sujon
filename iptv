@@ -269,6 +269,9 @@ http://xtv.ooo:8080/live/Jawad1994/03112371534/245898.m3u8
 http://tv.cloudcdn.me/00:1A:79:07:07:43/SN_1697176355/116
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
+http://bapatv.live:8080/zeebangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
 http://rolextv.asia/live/12345/54321/27833.ts
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
@@ -278,16 +281,19 @@ http://ktv.im:8080/live/873747737/637763736/83766.ts
 http://xtv.ooo:8080/Jawad1994/03112371534/245893
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
+http://bapatv.live:8080/colorsbangla2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
 http://ktv.im:8080/live/873747737/637763736/83764.ts
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/cHRc7hTk/Sun-Bangla.jpg",Sun Bangla HD
 http://xtv.ooo:8080/Jawad1994/03112371534/245906
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/qq07hbRM/Jalsha-Movies-HD.jpg",Jalsha Movies HD
-
+http://bapatv.live:8080/jalsamovies-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/DZkPVJfM/Zee-Bangla-Cinema.jpg",Zee Bangla Cinema
-http://ktv.im:8080/live/873747737/637763736/83768.ts
+http://bapatv.live:8080/zeebncinema/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/662vVv5x/ABP-Ananda.jpg",ABP Ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
@@ -529,7 +535,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Discovery Kids
-https://dplus.gammacdn.workers.dev/videos/113.m3u8
+http://bapatv.live:8080/discoverykids/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Disney Channel
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
