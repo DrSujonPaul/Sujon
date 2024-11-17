@@ -264,8 +264,8 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
 
 
-
-
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
+https://iptvcable.netlify.app/Altogether-007/Kolkata/StarJalsha.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
 http://bapatv.live:8080/starjalsha/tracks-v1a1/mono.m3u8
