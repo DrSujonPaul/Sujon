@@ -133,6 +133,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/NFq4kvY7/BTV-World.jpg",BTV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/NFq4kvY7/BTV-World.jpg",BTV World
+http://zkbvzkj.megahdtv.xyz:900/live/1103581436/4099381829/400200117.ts
+
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/tJq1jBzG/Channel-i.jpg",Channel I
 http://xtv.ooo:8080/live/global/global/245913.ts
 
@@ -237,7 +240,7 @@ https://rajdhani.jaagobd.com/rajdhanitv/rajdhanitv.stream/chunks.m3u8
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/hvcWR1Yz/Somoy-TV.jpg",Somoy TV
-http://xtv.ooo:8080/live/global/global/245925.ts
+https://app.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/PJQGM1kf/Time-TV.jpg",Tara TV
 
@@ -259,8 +262,8 @@ http://xtv.ooo:8080/live/global/global/245925.ts
 
 
 
-
-
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
+http://zkbvzkj.megahdtv.xyz:900/live/1103581436/4099381829/378743.ts
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
 http://stream247.live:8080/starjalsha/index.m3u8
@@ -281,7 +284,7 @@ http://tv.cloudcdn.me/00:1A:79:07:07:43/SN_1697176355/116
 http://xtv.ooo:8080/live/global/global/245893.ts
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
-http://xtv.ooo:8080/Jawad1994/03112371534/245893
+http://zkbvzkj.megahdtv.xyz:900/live/1103581436/4099381829/400159620.ts
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
 http://xtv.ooo:8080/live/global/global/245895.ts
@@ -564,6 +567,9 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick HD+
 http://xtv.ooo:8080/live/global/global/76722.ts
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick HD+
+http://zkbvzkj.megahdtv.xyz:900/live/1103581436/4099381829/400159901.ts
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick Junior
 http://bapatv.live:8080/nick/tracks-v1a1/mono.m3u8
