@@ -18,9 +18,6 @@ https://criccoder.pages.dev/astro.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/90GBNXPX/A-Sports-HD.jpg",A Sports
 http://xtv.ooo:8080/live/1788/1788/219689.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/90GBNXPX/A-Sports-HD.jpg",A Sports
-https://webott.viatv.com.np/v0t1/ASportsHD.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg",Star Sports 1 HD
 http://xtv.ooo:8080/live/1788/1788/167575.ts
 
