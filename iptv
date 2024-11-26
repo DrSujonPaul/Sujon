@@ -180,7 +180,7 @@ http://xtv.ooo:8080/live/global/global/245937.ts
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/VLrcGjj7/Independent.jpg",Independent TV
-http://xtv.ooo:8080/live/global/global/245916.ts
+https://app.ncare.live/live-orgin/independent-8-org.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/VLrcGjj7/Independent.jpg",Jagoroni TV
 
