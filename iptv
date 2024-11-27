@@ -19,6 +19,9 @@ https://criccoder.pages.dev/astro.m3u8
 http://xtv.ooo:8080/live/1788/1788/219689.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg",Star Sports 1 HD
+http://172.17.50.112/live/antbd1001/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg",Star Sports 1 HD
 http://xtv.ooo:8080/live/1788/1788/167575.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/jSPkL6ZT/Star-Sports-1-HD-Hindi.jpg",Star Sports 1 HD Hindi
@@ -70,7 +73,7 @@ http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Sports 18 HD
-
+http://172.17.50.112/live/fifa2022/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Kgfo9ty.jpg",Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/dubaisportshd/chunklist.m3u8
@@ -263,7 +266,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 
 
-
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
+http://172.17.50.112/live/antbd1003/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
 http://zkbvzkj.megahdtv.xyz:900/live/1103581436/4099381829/378743.ts
@@ -609,7 +613,7 @@ https://varun-iptv.netlify.app/m3u/TLC.m3u8
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg",Star Movies HD
-
+http://172.17.50.112/live/antbd1004/index.m3u8
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.imgur.com/aju4mRV.jpg",My Time
 https://mytime-tcl.amagi.tv/playlist.m3u8
