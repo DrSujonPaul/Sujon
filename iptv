@@ -45,8 +45,6 @@ https://criccoder.pages.dev/astro.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/90GBNXPX/A-Sports-HD.jpg",A Sports
 
 
-
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg",Sky Sports Cricket
 
 
@@ -110,7 +108,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/G3NzLNgx/PTV-Sports.jpg",Euro Sport
 http://stvlive.net:8080/eurosports/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
