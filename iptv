@@ -6,7 +6,7 @@ http://103.96.235.18:8080/sports1/index.m3u8
 https://iptvcable.netlify.app/Altogether-007/GaziTv.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",GTV HD
-
+https://fifabd.xyz/OPLLX/play.m3u8?id=245901
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",TNT Sport 1
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4359.ts
@@ -71,7 +71,7 @@ http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/G2NNQrzM/Sony-Sports-5-HD.jpg",Sony Sports 5 HD
-
+https://fifabd.xyz/OPLLX/play.m3u8?id=109992
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Zqvpmns1/Geo-Super.jpg",Geo Super
@@ -330,6 +330,8 @@ http://stream247.live:8080/sunbangla/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/qq07hbRM/Jalsha-Movies-HD.jpg",Jalsha Movies HD
 http://103.175.242.10:8080/jalshamovies/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/qq07hbRM/Jalsha-Movies-HD.jpg",Jalsha Movies HD
+https://fifabd.xyz/OPLLX/play.m3u8?id=245900
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/DZkPVJfM/Zee-Bangla-Cinema.jpg",Zee Bangla Cinema
 
@@ -584,10 +586,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
-
+https://fifabd.xyz/OPLLX/play.m3u8?id=76723
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Discovery Kids
-http://bapatv.live:8080/discoverykids/tracks-v1a1/mono.m3u8
+https://fifabd.xyz/OPLLX/play.m3u8?id=76723
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Disney Channel
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
@@ -641,8 +643,14 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Tom & Jerry
+https://fifabd.xyz/OPLLX/play.m3u8?id=329247
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/MGP3pRsh/Balle-Balle.jpg",Wow Action
+https://fifabd.xyz/OPLLX/play.m3u8?id=314753
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/MGP3pRsh/Balle-Balle.jpg",Wow Comedy
 https://fifabd.xyz/OPLLX/play.m3u8?id=311774
