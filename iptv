@@ -388,10 +388,10 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/1R0kx5TF/Pictures-HD.jpg",&Pictures HD
-
+http://xtv.ooo:8080/live/Irfan99383/8888/109955.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/g0qJLPj6/TV.jpg",&TV
-
+http://xtv.ooo:8080/live/Irfan99383/8888/109952.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/rmBYB7GQ/Bhojpuri-Cinema.jpg",Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
@@ -400,10 +400,10 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg",Colors HD
-
+http://xtv.ooo:8080/live/Irfan99383/8888/109947.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg",Colors Cineplex HD
-
+http://xtv.ooo:8080/live/Irfan99383/8888/206315.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg",Dangal
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
@@ -432,7 +432,7 @@ http://119.152.240.15:8001/play/a0j7/index.m3u8
 http://119.152.240.15:8001/play/a0h1/index.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony TV
-
+http://xtv.ooo:8080/live/Irfan99383/8888/109948.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/QCGRcWyM/Star-Bharat-HD.jpg",Star Bharat HD
 http://119.152.240.15:8001/play/a0jl/index.m3u8
@@ -441,28 +441,28 @@ http://119.152.240.15:8001/play/a0jl/index.m3u8
 http://103.175.242.10:8080/stargold/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/RhgbbqFx/Star-Gold.jpg",Star Gold 2 H
-
+http://xtv.ooo:8080/live/Irfan99383/8888/109959.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/4y3qbp5T/Star-Gold-Select-HD.jpg",Star Gold Select
-
+http://xtv.ooo:8080/live/Irfan99383/8888/109960.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/4y3qbp5T/Star-Gold-Select-HD.jpg",Star Gold Thrills
-
+http://xtv.ooo:8080/live/Irfan99383/8888/221258.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/43WkCMMz/Star-Plus.jpg",Star Plus HD
 http://103.175.242.10:8080/starplus/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/Vvfy53T4/Zee-Action.jpg",Zee Action
-
+http://xtv.ooo:8080/live/Irfan99383/8888/66191.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/c4hjk9jG/Zee-Anmol.jpg",Zee Anmol
-
+http://xtv.ooo:8080/live/Irfan99383/8888/66357.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/NMwyVdy7/Zee-Cinema-HD.jpg",Zee Cinema HD
 http://109.61.81.147:2080/cdn2/522/video.m3u8?token=4444
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/CKg6KVX3/Zee-TV-HD.jpg",Zee TV HD
-
+http://xtv.ooo:8080/live/Irfan99383/8888/109950.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/CKg6KVX3/Zee-TV-HD.jpg",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
