@@ -621,6 +621,8 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8\
 http://xtv.ooo:8080/live/global/global/76722.ts
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick HD+
 http://zkbvzkj.megahdtv.xyz:900/live/1103581436/4099381829/400159901.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick HD+
+https://fifabd.xyz/OPLLX/play.m3u8?id=76722
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick Junior
 http://bapatv.live:8080/nick/tracks-v1a1/mono.m3u8
