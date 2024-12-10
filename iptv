@@ -3,10 +3,14 @@
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD
 http://172.17.50.112/live/antbd1002/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD
+http://38.96.178.201/live/TSports/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD
 http://103.96.235.18:8080/sports1/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD
 https://tiger-hub.vercel.app/Live_tv/T-sports.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",GTV HD
+http://38.96.178.201/live/GaziTV/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",GTV HD
 https://iptvcable.netlify.app/Altogether-007/GaziTv.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",GTV HD
@@ -323,6 +327,10 @@ http://xtv.ooo:8080/live/Irfan99383/8888/245898.ts
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD 5
 https://fifabd.xyz/OPLLX/play.m3u8?id=245898
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD 6
+http://38.96.178.201/live/STARJALSHA/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
