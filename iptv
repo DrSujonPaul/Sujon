@@ -331,8 +331,11 @@ https://fifabd.xyz/OPLLX/play.m3u8?id=245898
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD 6
 http://38.96.178.201/live/STARJALSHA/index.m3u8
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD 6
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD 7
 http://103.240.4.59:8080/star-jalsha/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD 8
+http://atg100.xyz/live/UL33K17/SYC4T9D/34726.ts
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
 http://zkbvzkj.megahdtv.xyz:900/live/1103581436/4099381829/400159620.ts
