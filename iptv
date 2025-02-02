@@ -1,8 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD 1
+http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD 2
 http://103.96.235.18:8080/sports1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD 3
 https://iptvcable.netlify.app/Altogether-007/GaziTv.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",GTV HD
@@ -582,7 +584,7 @@ https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
 https://fifabd.xyz/OPLLX/play.m3u8?id=76723
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Discovery Kids
-https://fifabd.xyz/OPLLX/play.m3u8?id=76723
+http://172.17.50.112:84/ant1004/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Disney Channel
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
