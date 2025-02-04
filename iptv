@@ -432,7 +432,7 @@ http://119.152.240.15:8001/play/a0j7/index.m3u8
 http://119.152.240.15:8001/play/a0h1/index.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony TV
-
+http://atg100.xyz/live/UL33K17/SYC4T9D/72146.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/QCGRcWyM/Star-Bharat-HD.jpg",Star Bharat HD
 http://119.152.240.15:8001/play/a0jl/index.m3u8
