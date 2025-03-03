@@ -584,7 +584,7 @@ http://172.17.50.112:84/ant1004/tracks-v1a1/mono.m3u8
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duronto TV
-http://kst.moonplex.net:8080/CH12/tracks-v1a1/mono.m3u8
+http://app.luckonline.eu:80/live/Sohail02/myQYkEntaxuZ/755.ts
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",GDM
 https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
