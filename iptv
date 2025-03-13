@@ -6,7 +6,7 @@ https://live.tsports.com/?bitrate=1500000&channel=tsports_live_1_1080&res=1080
 https://live.tsports.com/?bitrate=1500000&channel=tsports_live_2_1080&res=1080
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD 3
 http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD 3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD 4
 http://filex.tv:8080/live/shakeelmirza/4110440/1114097.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",GTV HD
@@ -94,7 +94,7 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Sports 18 HD
 http://filex.tv:8080/live/shakeelmirza/4110440/52077.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Fight Network
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Fast Sports
 http://filex.tv:8080/live/shakeelmirza/4110440/277207.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Kgfo9ty.jpg",Dubai Sports 2
