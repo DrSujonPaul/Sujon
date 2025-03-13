@@ -6,10 +6,6 @@ https://live.tsports.com/?bitrate=1500000&channel=tsports_live_1_1080&res=1080
 https://live.tsports.com/?bitrate=1500000&channel=tsports_live_2_1080&res=1080
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD 3
 http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD 4
-http://app.luckonline.eu:80/live/Sohail02/myQYkEntaxuZ/1136.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD 5
-http://161.248.188.101/T_sports/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/90GBNXPX/A-Sports-HD.jpg",A Sports
 http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
@@ -18,7 +14,6 @@ http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",TNT Sport 1
-http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4359.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",TNT Sport 2
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4360.ts
@@ -54,7 +49,6 @@ http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m3u8
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/qMtBrnST/Astro-Cricket.jpg",Astro Cricket
-https://criccoder.pages.dev/astro.m3u8
 
 
 
@@ -84,13 +78,11 @@ https://criccoder.pages.dev/astro.m3u8
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/G3NzLNgx/PTV-Sports.jpg",PTV Sports
-http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",Ten Sports HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Sports 18 HD
-https://sendgbxt.ruscfd.lat/720p.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Kgfo9ty.jpg",Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/dubaisportshd/chunklist.m3u8
@@ -117,10 +109,8 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Bein Sports 1
-http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",TBS
-http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/19.ts
+
 
 
 
@@ -288,7 +278,8 @@ http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/qMV3pHHn/Varendra-TV.jpg",Varendra TV
 
-
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/qMV3pHHn/Varendra-TV.jpg",Vision TV
+http://161.248.188.101/T_sports/tracks-v1a1/mono.ts.m3u8
 
 
 
@@ -296,16 +287,13 @@ http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
 
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD 1
-http://opplex.live:8080/live/asif/asif/245898.ts
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD 2
-https://lifetvbd.xyz:8880/live/omor20/omor20/9161.ts
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD 3
 http://zkbvzkj.megahdtv.xyz:900/live/1103581436/4099381829/378743.ts
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD 4
-http://app.luckonline.eu:80/live/Sohail02/myQYkEntaxuZ/534.ts
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
 http://kst.moonplex.net:8080/CH4/tracks-v1a1/mono.m3u8
@@ -678,7 +666,8 @@ http://212.102.60.231/HBO/index.m3u8
 http://iptv.prosto.tv:7000/ch50/video.m3u8
 
 
-
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",TBS
+http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/19.ts
 
 
 
