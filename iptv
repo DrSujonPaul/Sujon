@@ -46,7 +46,7 @@ http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4360.t
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4361.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/ZqCRJXN2/Willow-HD.jpg",Willow HD
-
+http://xtv.ooo:8080/live/Irfan99383/8888/220059.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",Willow Xtra
 
@@ -299,11 +299,22 @@ http://161.248.188.101/T_sports/tracks-v1a1/mono.ts.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
 http://kst.moonplex.net:8080/CH3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD 1
-http://xtv.ooo:8080/live/danyear12/am809100/245898.ts
+http://xtv.ooo:8080/live/Irfan99383/8888/245898.ts
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD 2
 http://zkbvzkj.megahdtv.xyz:900/live/1103581436/4099381829/378743.ts
@@ -384,10 +395,10 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/1R0kx5TF/Pictures-HD.jpg",&Pictures HD
-
+http://xtv.ooo:8080/live/Irfan99383/8888/109955.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/g0qJLPj6/TV.jpg",&TV
-
+http://xtv.ooo:8080/live/Irfan99383/8888/109952.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/rmBYB7GQ/Bhojpuri-Cinema.jpg",Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
@@ -396,7 +407,7 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg",Colors HD
-
+http://xtv.ooo:8080/live/Irfan99383/8888/66168.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg",Colors Cineplex HD
 
@@ -423,31 +434,28 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 http://kst.moonplex.net:8080/CH1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Max 2
-http://119.152.240.15:8001/play/a0j7/index.m3u8
+http://xtv.ooo:8080/live/Irfan99383/8888/66189.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/yYmcX2Ds/Sony-SAB-HD.jpg",Sony Pal
-http://119.152.240.15:8001/play/a0h1/index.m3u8
+http://xtv.ooo:8080/live/Irfan99383/8888/104192.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony TV
 http://filex.tv:8080/live/shakeelmirza/4110440/275035.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/QCGRcWyM/Star-Bharat-HD.jpg",Star Bharat HD
-http://119.152.240.15:8001/play/a0jl/index.m3u8
+http://xtv.ooo:8080/live/Irfan99383/8888/109951.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/RhgbbqFx/Star-Gold.jpg",Star Gold HD
-http://103.175.242.10:8080/stargold/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/RhgbbqFx/Star-Gold.jpg",Star Gold 2 H
 
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/4y3qbp5T/Star-Gold-Select-HD.jpg",Star Gold Select
-
+http://xtv.ooo:8080/live/Irfan99383/8888/66176.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/4y3qbp5T/Star-Gold-Select-HD.jpg",Star Gold Thrills
 http://xtv.ooo:8080/live/Irfan99383/8888/221258.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/43WkCMMz/Star-Plus.jpg",Star Plus HD
-http://103.175.242.10:8080/starplus/tracks-v1a1/mono.m3u8
+http://xtv.ooo:8080/live/Irfan99383/8888/66208.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/Vvfy53T4/Zee-Action.jpg",Zee Action
 http://xtv.ooo:8080/live/Irfan99383/8888/66191.ts
@@ -456,7 +464,7 @@ http://xtv.ooo:8080/live/Irfan99383/8888/66191.ts
 http://xtv.ooo:8080/live/Irfan99383/8888/66357.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/NMwyVdy7/Zee-Cinema-HD.jpg",Zee Cinema HD
-http://109.61.81.147:2080/cdn2/522/video.m3u8?token=4444
+http://xtv.ooo:8080/live/Irfan99383/8888/221261.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/CKg6KVX3/Zee-TV-HD.jpg",Zee TV HD
 http://xtv.ooo:8080/live/Irfan99383/8888/109950.ts
