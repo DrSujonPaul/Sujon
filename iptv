@@ -22,7 +22,7 @@ http://filex.tv:8080/live/shakeelmirza/4110440/90342.ts
 http://filex.tv:8080/live/shakeelmirza/4110440/499597.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/ryHX6q6V/Star-Sports-3.jpg",Star Sports 3 
-
+http://zkbvzkj.megahdtv.xyz:900/live/1103581436/4099381829/400201946.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8PHm3yKj/Star-Sports-Select-1-HD.jpg",Star Sports Select 1 HD
 http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m3u8
@@ -36,16 +36,13 @@ http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 http://filex.tv:8080/live/shakeelmirza/4110440/190767.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",TNT Sport 1
-
+http://zkbvzkj.megahdtv.xyz:900/live/1103581436/4099381829/401338315.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",TNT Sport 2
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4360.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",TNT Sport 3
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4361.ts
-
-
-
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/ZqCRJXN2/Willow-HD.jpg",Willow HD
 
@@ -57,7 +54,7 @@ http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4361.t
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/qMtBrnST/Astro-Cricket.jpg",Astro Cricket
-
+http://zkbvzkj.megahdtv.xyz:900/live/1103581436/4099381829/400201960.ts
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg",Sky Sports Cricket
