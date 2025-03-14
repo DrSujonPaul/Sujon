@@ -1,4 +1,4 @@
-d#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD 1
 https://live.tsports.com/?bitrate=1500000&channel=tsports_live_1_1080&res=1080
