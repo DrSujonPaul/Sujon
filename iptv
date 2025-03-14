@@ -6,15 +6,11 @@ https://live.tsports.com/?bitrate=1500000&channel=tsports_live_1_1080&res=1080
 https://live.tsports.com/?bitrate=1500000&channel=tsports_live_2_1080&res=1080
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD 3
 http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD 4
-http://filex.tv:8080/live/shakeelmirza/4110440/1114097.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",GTV HD
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg",Star Sports 1 HD
 http://kst.moonplex.net:8080/CH10/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg",Star Sports 1 HD
-http://filex.tv:8080/live/shakeelmirza/4110440/499596.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/jSPkL6ZT/Star-Sports-1-HD-Hindi.jpg",Star Sports 1 HD Hindi
 http://filex.tv:8080/live/shakeelmirza/4110440/90342.ts
@@ -561,7 +557,6 @@ http://xtv.ooo:8080/live/Irfan99383/8888/245933.ts
 
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/MGP3pRsh/Balle-Balle.jpg",B4U Music
-
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/MGP3pRsh/Balle-Balle.jpg",WION
@@ -594,9 +589,6 @@ https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
 
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Discovery Kids
-
-
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Disney Channel
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 
@@ -609,14 +601,8 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/Qxw0vSdQ/Kids-Creation.jpg",Kids Creation
 
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick
-
-
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick HD+
 http://zkbvzkj.megahdtv.xyz:900/live/1103581436/4099381829/400159901.ts
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick Junior
-
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Motu Patlu 1
 http://xtv.ooo:8080/live/Irfan99383/8888/307079.ts
@@ -624,10 +610,8 @@ http://xtv.ooo:8080/live/Irfan99383/8888/307079.ts
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Motu Patlu 2
 http://xtv.ooo:8080/live/Irfan99383/8888/311373.ts
 
-
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Sony YAY
 http://xtv.ooo:8080/live/Irfan99383/8888/245959.ts
-
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -656,29 +640,24 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 
 
 
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg",TLC
-http://172.17.50.112/live/antbd1004/index.m3u8
+
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg",Sony Pix HD
-http://kst.moonplex.net:8080/CH8/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg",Star Movies HD
-
-
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg",Movies Now HD
-
-
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.imgur.com/aju4mRV.jpg",My Time
-https://mytime-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.imgur.com/aju4mRV.jpg",HBO
 http://212.102.60.231/HBO/index.m3u8
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.imgur.com/aju4mRV.jpg",Hollywood HD
 http://iptv.prosto.tv:7000/ch50/video.m3u8
+
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.imgur.com/aju4mRV.jpg",My Time
+https://mytime-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg",Sony Pix HD
+http://kst.moonplex.net:8080/CH8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg",Star Movies HD
 
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",TBS
@@ -697,43 +676,15 @@ http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/19.ts
 
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/Y05S4Fjz/Animal-Planet.jpg",Animal Planet
-https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/Y05S4Fjz/Animal-Planet.jpg",Animal Planet
-https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/j28nsY5w/Travel-XP.jpg",Clarity TV
-https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg",Discovery
 http://kst.moonplex.net:8080/CH9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg",Discovery Bangla
-
-
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg",Discovery English
-
-
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg",Discovery Hindi
-
-
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg",Discovery Science
-https://freeott.site/discovery/Discovery_Science.m3u8
-
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg",Discovery Turbo
-https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
-
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg",Food Network
-https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
-
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg",Investigation Discovery
-https://od.lk/s/ODRfNzIxOTE5Njdf/Investigation_Discovery.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/52chNYCJ/Nasa-TV.jpg",NASA TV
-
-
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg",Nat Geo Wild
 
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg",National Geographic
@@ -742,18 +693,14 @@ http://103.110.110.11:8081/live/NGC/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg",Nat Geo Bangla
 http://xtv.ooo:8080/live/Irfan99383/8888/245967.ts
 
-
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/j28nsY5w/Travel-XP.jpg",TLC
 https://food-dlvr-ott.akamaized.net/primary/4/a640549241664dce8ae975919997b0ca/index_15.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/j28nsY5w/Travel-XP.jpg",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/j28nsY5w/Travel-XP.jpg",TRVL
-https://freedishbhai.vercel.app/TRVL.m3u8
-
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/HxDhtfTy/Wild-Earth.jpg",Wild Earth
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
+
 
 
 
