@@ -18,6 +18,8 @@ https://live.tsports.com/?bitrate=1500000&channel=tsports_live_2_1080&res=1080
 http://kst.moonplex.net:8080/CH10/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/jSPkL6ZT/Star-Sports-1-HD-Hindi.jpg",Star Sports 1 HD Hindi
+https://airplay.bgrid.in/IPTVS/live/voot/1033.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/jSPkL6ZT/Star-Sports-1-HD-Hindi.jpg",Star Sports 1 HD Hindi
 http://filex.tv:8080/live/shakeelmirza/4110440/90342.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Star Sports 2 HD
