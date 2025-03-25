@@ -17,11 +17,11 @@ https://live.tsports.com/?bitrate=1500000&channel=tsports_live_2_1080&res=1080
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg",Star Sports 1 HD
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/jSPkL6ZT/Star-Sports-1-HD-Hindi.jpg",Star Sports 1 HD Hindi
-http://filex.tv:8080/live/shakeelmirza/4110440/52077.ts
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Star Sports 2 HD
 http://103.122.74.6:8888/hls/STAR.SPORTS2.HD.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/jSPkL6ZT/Star-Sports-1-HD-Hindi.jpg",Star Sports 2 HD Hindi
+http://filex.tv:8080/live/shakeelmirza/4110440/52077.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/ryHX6q6V/Star-Sports-3.jpg",Star Sports 3 
 http://103.122.74.6:8888/hls/STAR-SPORTS.3.m3u8
@@ -77,9 +77,6 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Bein Sports 1 English
 http://103.122.74.6:8888/hls/BEINSPORTS.1.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Bein Sports 2
-http://103.122.74.6:8888/hls/BEINSPORTS.2.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Bein Sports 3
 http://103.122.74.6:8888/hls/BEIN.SPORT.3.m3u8
 
@@ -88,15 +85,6 @@ http://103.122.74.6:8888/hls/EUROSPORTS.HD.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",TNT Sport 1
 http://zkbvzkj.megahdtv.xyz:900/live/1103581436/4099381829/401338315.ts
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",TNT Sport 2
-http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4360.ts
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",TNT Sport 3
-http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4361.ts
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Fast Sports
-http://filex.tv:8080/live/shakeelmirza/4110440/277207.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Golf
 http://103.122.74.6:8888/hls/GOLF.SPORTS.m3u8
@@ -122,7 +110,7 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 grop-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",T2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",T2
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 
 
