@@ -11,11 +11,8 @@ https://live.tsports.com/?bitrate=1500000&channel=tsports_live_1_1080&res=1080
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/K8wtTCp3/T-Sports.jpg",T Sports HD 5
 https://live.tsports.com/?bitrate=1500000&channel=tsports_live_2_1080&res=1080
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",GTV HD
-
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg",Star Sports 1 HD
-
+http://103.122.74.6:8888/hls/STAR.SPORTS1.HD.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Star Sports 2 HD
 http://103.122.74.6:8888/hls/STAR.SPORTS2.HD.m3u8
@@ -202,6 +199,9 @@ http://kst.moonplex.net:8080/CH7/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/Nj5XJGD8/Ekushe.jpg",Ekushe ETV
 http://xtv.ooo:8080/live/Irfan99383/8888/245937.ts
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/4yyTcJWn/GTV.jpg",GTV HD
+http://103.122.74.6:8888/hls/GAZI.TV.HD.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/gJqSzqBb/Global-TV.jpg",Global TV
 
