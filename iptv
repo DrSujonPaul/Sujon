@@ -366,6 +366,9 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/rmBYB7GQ/Bhojpuri-Cinema.jpg",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 
+#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/rmBYB7GQ/Bhojpuri-Cinema.jpg",Bollywood Classic HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg",Colors HD
 http://103.122.74.6:8888/hls/COLORS.HD.m3u8
 
@@ -584,6 +587,9 @@ http://103.122.74.6:8888/hls/BBC.LIFESTYLE.HD.m3u8
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg",Cinemax
 http://103.122.74.6:8888/hls/CINEMAX.HD.m3u8
 
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg",Colors Infinity
+http://103.122.74.6:8888/hls/STAR.MOVIES.SEL.HD.m3u8
+
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.imgur.com/aju4mRV.jpg",HBO
 http://212.102.60.231/HBO/index.m3u8
 
@@ -600,7 +606,7 @@ https://mytime-tcl.amagi.tv/playlist.m3u8
 http://kst.moonplex.net:8080/CH8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg",Star Movies HD
-http://103.122.74.6:8888/hls/SONY.MAX.HD.m3u8
+http://103.122.74.6:8888/hls/STAR.MOVIES.HD.m3u8
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",TBS
 http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/19.ts
