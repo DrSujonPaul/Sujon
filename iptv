@@ -571,8 +571,8 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 
 
 
-
-
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg",&Flix HD
+http://103.122.74.6:8888/hls/AND.FLIX.HD.m3u8
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
@@ -583,14 +583,31 @@ http://103.122.74.6:8888/hls/BBC.LIFESTYLE.HD.m3u8
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg",Cinemax
 http://103.122.74.6:8888/hls/CINEMAX.HD.m3u8
 
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg",CNBC
+http://103.122.74.6:8888/hls/LOVE.NATURE.HD.m3u8
+
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg",Colors Infinity
 http://103.122.74.6:8888/hls/STAR.MOVIES.SEL.HD.m3u8
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.imgur.com/aju4mRV.jpg",HBO
+http://103.122.74.6:8888/hls/HBO.HD.m3u8
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.imgur.com/aju4mRV.jpg",HBO
 http://212.102.60.231/HBO/index.m3u8
+
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.imgur.com/aju4mRV.jpg",HBO Hits
+http://103.122.74.6:8888/hls/HBO.HITS.m3u8
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.imgur.com/aju4mRV.jpg",Hollywood HD
 http://iptv.prosto.tv:7000/ch50/video.m3u8
+
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.imgur.com/aju4mRV.jpg",MNX
+http://103.122.74.6:8888/hls/MNX.HD.m3u8
+
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.imgur.com/aju4mRV.jpg",MN+
+http://103.122.74.6:8888/hls/MN.PLUS.HD.m3u8
+
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.imgur.com/aju4mRV.jpg",Movies Now HD
+http://103.122.74.6:8888/hls/MOVIES.NOW.HD.m3u8
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.imgur.com/aju4mRV.jpg",MTV
 http://103.122.74.6:8888/hls/UTSHOV.GOLD.m3u8
@@ -599,15 +616,22 @@ http://103.122.74.6:8888/hls/UTSHOV.GOLD.m3u8
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg",Sony Pix HD
-http://kst.moonplex.net:8080/CH8/tracks-v1a1/mono.m3u8
+http://103.122.74.6:8888/hls/SONY.PIX.HD.m3u8
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg",Star Movies HD
 http://103.122.74.6:8888/hls/STAR.MOVIES.HD.m3u8
 
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg",Star Movies Select HD
+http://103.122.74.6:8888/hls/COLOR.INFINITY.HD.m3u8
+
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",TBS
 http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/19.ts
 
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",TLC
+http://103.122.74.6:8888/hls/TLC.HD.m3u8
 
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Zee Cafe HD
+http://103.122.74.6:8888/hls/ZEE.CAFE.HD.m3u8
 
 
 
@@ -624,20 +648,28 @@ http://103.122.74.6:8888/hls/BBC.Earth.HD.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg",Discovery
 http://103.122.74.6:8888/hls/DISCOVERY.HD.m3u8
 
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg",Discovery Turbo
+http://103.122.74.6:8888/hls/DISCOVARY.TURBO.m3u8
+
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg",History TV
 http://103.122.74.6:8888/hls/HISTORY.TV.18.HD.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg",Love Nature
+http://103.122.74.6:8888/hls/LOVE.NATURE.HD.m3u8
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg",National Geographic
-http://103.110.110.11:8081/live/NGC/playlist.m3u8
+http://103.122.74.6:8888/hls/NATGEO.HD.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg",Nat Geo Wild
 http://103.122.74.6:8888/hls/NATGEO.WILD.HD.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg",Nat Geo Bangla
-http://xtv.ooo:8080/live/Irfan99383/8888/245967.ts
+http://xtv.ooo:8080/live/Irfan99383/8888/245967.ts\
+
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg",Sony BBC Earth
+http://103.122.74.6:8888/hls/SONY.BBC.EARTH.HD.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/j28nsY5w/Travel-XP.jpg",Travel XP
 http://103.122.74.6:8888/hls/TRAVELXP.HD.m3u8
@@ -664,7 +696,7 @@ http://kst.moonplex.net:8080/CH14/tracks-v1a1/mono.m3u8
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",BBC World News
-http://xtv.ooo:8080/live/Irfan99383/8888/346360.ts
+http://103.122.74.6:8888/hls/BBC.NEWS.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/vH3MKVPY/CNN.jpg",CNA News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
