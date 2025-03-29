@@ -414,7 +414,7 @@ http://103.122.74.6:8888/hls/STAR.GOLD.2HD.m3u8
 http://xtv.ooo:8080/live/Irfan99383/8888/221258.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/43WkCMMz/Star-Plus.jpg",Star Plus HD
-http://xtv.ooo:8080/live/Irfan99383/8888/66208.ts
+http://103.122.74.6:8888/hls/STAR.PLUS.HD.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/43WkCMMz/Star-Plus.jpg",Utsav Gold
 http://103.122.74.6:8888/hls/UTSHOV.GOLD.m3u8
