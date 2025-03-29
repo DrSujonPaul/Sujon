@@ -383,6 +383,8 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Max HD
 http://103.122.74.6:8888/hls/SONY.MAX.HD.m3u8
+#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Max HD
+http://kst.moonplex.net:8080/CH1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Max 2
 http://xtv.ooo:8080/live/Irfan99383/8888/66189.ts
