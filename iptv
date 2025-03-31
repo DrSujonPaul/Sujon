@@ -299,13 +299,13 @@ http://103.122.74.6:8888/hls/SUN.BANGLA.HD.m3u8
 http://103.122.74.6:8888/hls/JALSHA.MOVIES.HD.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/DZkPVJfM/Zee-Bangla-Cinema.jpg",Zee Bangla Cinema
-http://xtv.ooo:8080/live/Irfan99383/8888/245897.ts
+
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/662vVv5x/ABP-Ananda.jpg",ABP Ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/Wbkn7K32/Akash-Aath.jpg",Akash Aath
-http://xtv.ooo:8080/213112/213112/245928
+
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/MZQcv8Hm/Bangla-Jago.jpg",Bangla Jago
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
@@ -368,10 +368,10 @@ http://103.122.74.6:8888/hls/SONY.MAX.HD.m3u8
 http://kst.moonplex.net:8080/CH1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Max 2
-http://xtv.ooo:8080/live/Irfan99383/8888/66189.ts
+
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/yYmcX2Ds/Sony-SAB-HD.jpg",Sony Pal
-http://xtv.ooo:8080/live/Irfan99383/8888/104192.ts
+
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony TV
 http://103.122.74.6:8888/hls/SONY.ENT.HD.m3u8
@@ -398,7 +398,7 @@ http://103.122.74.6:8888/hls/STAR.GOLD.2HD.m3u8
 
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/4y3qbp5T/Star-Gold-Select-HD.jpg",Star Gold Thrills
-http://xtv.ooo:8080/live/Irfan99383/8888/221258.ts
+
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/43WkCMMz/Star-Plus.jpg",Star Plus HD
 http://103.122.74.6:8888/hls/STAR.PLUS.HD.m3u8
@@ -409,13 +409,13 @@ https://www.tbn24.com/api/video/4039_0.m3u8
 http://103.122.74.6:8888/hls/UTSHOV.GOLD.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/Vvfy53T4/Zee-Action.jpg",Zee Action
-http://xtv.ooo:8080/live/Irfan99383/8888/66191.ts
+
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/c4hjk9jG/Zee-Anmol.jpg",Zee Anmol
-http://xtv.ooo:8080/live/Irfan99383/8888/66357.ts
+
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/NMwyVdy7/Zee-Cinema-HD.jpg",Zee Cinema HD
-http://xtv.ooo:8080/live/Irfan99383/8888/221261.ts
+
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/CKg6KVX3/Zee-TV-HD.jpg",Zee TV HD
 http://103.122.74.6:8888/hls/ANT.PICTURS.HD.m3u8
@@ -435,10 +435,10 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/2S9YWq3f/9X-Jalwa.jpg",9X Jalwa
-http://xtv.ooo:8080/live/Irfan99383/8888/66226.ts
+
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/154N6F39/9-X-Jhakaas.jpg",9X Jhakaas
-http://xtv.ooo:8080/live/Irfan99383/8888/380854.ts
+
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/RZJmcSt6/9XM.jpg",9X Music
 http://kst.moonplex.net:8080/CH13/tracks-v1a1/mono.m3u8
@@ -465,7 +465,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/HxPhL5Lr/Showven.jpg",Gaan Bangla
-http://xtv.ooo:8080/live/Irfan99383/8888/245935.ts
+
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/tC3qfCTK/ATN-Music.jpg",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
@@ -489,7 +489,7 @@ https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
 https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/pLG976s5/Sangeet-Bangla.jpg",Sangeet Bangla
-http://xtv.ooo:8080/live/Irfan99383/8888/245933.ts
+
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/MGP3pRsh/Balle-Balle.jpg",B4U Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
@@ -540,16 +540,16 @@ http://103.122.74.6:8888/hls/NICK.m3u8
 http://103.122.74.6:8888/hls/NICK.JR.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Motu Patlu 1
-http://xtv.ooo:8080/live/Irfan99383/8888/307079.ts
+
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Motu Patlu 2
-http://xtv.ooo:8080/live/Irfan99383/8888/311373.ts
+
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Sonic
 http://103.122.74.6:8888/hls/SONIC.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Sony YAY
-http://xtv.ooo:8080/live/Irfan99383/8888/245959.ts
+
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
@@ -639,7 +639,7 @@ http://103.122.74.6:8888/hls/ZEE.CAFE.HD.m3u8
 
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/Y05S4Fjz/Animal-Planet.jpg",Animal Planet
-http://xtv.ooo:8080/live/Irfan99383/8888/206283.ts
+
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/Y05S4Fjz/Animal-Planet.jpg",BBC Earth
 http://103.122.74.6:8888/hls/BBC.Earth.HD.m3u8
@@ -665,7 +665,7 @@ http://103.122.74.6:8888/hls/NATGEO.HD.m3u8
 http://103.122.74.6:8888/hls/NATGEO.WILD.HD.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg",Nat Geo Bangla
-http://xtv.ooo:8080/live/Irfan99383/8888/245967.ts\
+
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg",Sony BBC Earth
 http://103.122.74.6:8888/hls/SONY.BBC.EARTH.HD.m3u8
@@ -676,7 +676,7 @@ http://103.122.74.6:8888/hls/TRAVELXP.HD.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/HxDhtfTy/Wild-Earth.jpg",Wild Earth
-http://xtv.ooo:8080/live/Irfan99383/8888/238545.ts
+
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/HxDhtfTy/Wild-Earth.jpg",Xplore
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
