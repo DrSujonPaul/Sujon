@@ -196,7 +196,7 @@ https://www.tbn24.com/api/video/4027_0.m3u8
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/VLrcGjj7/Independent.jpg",Independent TV
-http://103.175.242.10:8080/hls/globaltv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/63K8YKmD/Jamuna-TV.jpg",Jamuna TV
 http://kst.moonplex.net:8080/CH5/tracks-v1a1/mono.m3u8
@@ -511,9 +511,6 @@ http://103.122.74.6:8888/hls/CARTON.NETWORK.HD.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Kids
 http://103.122.74.6:8888/hls/DISCOVERY.KIDS.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Disney Channel
-https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Disney Junior
 http://103.122.74.6:8888/hls/DISNEY.JUNIAR.m3u8
 
@@ -670,8 +667,6 @@ http://103.122.74.6:8888/hls/SONY.BBC.EARTH.HD.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/j28nsY5w/Travel-XP.jpg",Travel XP
 http://103.122.74.6:8888/hls/TRAVELXP.HD.m3u8
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/j28nsY5w/Travel-XP.jpg",Travel XP
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/HxDhtfTy/Wild-Earth.jpg",Wild Earth
 
