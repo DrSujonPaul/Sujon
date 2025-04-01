@@ -642,6 +642,9 @@ http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/19.ts
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",TLC
 http://103.122.74.6:8888/hls/TLC.HD.m3u8
 
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Zee Cafe HD
 http://103.122.74.6:8888/hls/ZEE.CAFE.HD.m3u8
 
@@ -748,6 +751,12 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="Religion" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Iqra Bangla
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 
 #EXTINF:-1 group-title="Religion" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg",Madani TV
 https://www.tbn24.com/api/video/4035_0.m3u8
