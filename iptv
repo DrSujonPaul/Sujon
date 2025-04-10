@@ -282,13 +282,13 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8
 
 
 
-
-
-
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD 1
-http://kst.moonplex.net:8080/CH3/tracks-v1a1/mono.m3u8
+http://smart.bengaldigital.live/Star-jalsha/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD 2
+http://kst.moonplex.net:8080/CH3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD 3
 http://link.luckonline.eu/bnf3aKTmLWEG/K86vSxB9quGd/534
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
