@@ -515,9 +515,6 @@ http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/MkFsM39.png",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/MkFsM39.png",MBC
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/RZJmcSt6/9XM.jpg",Music TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
@@ -634,6 +631,9 @@ http://212.102.60.231/HBO/index.m3u8
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.imgur.com/aju4mRV.jpg",Hollywood HD
 http://iptv.prosto.tv:7000/ch50/video.m3u8
+
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.imgur.com/MkFsM39.png",MBC
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.imgur.com/aju4mRV.jpg",MNX
 
