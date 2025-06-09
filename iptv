@@ -451,7 +451,7 @@ http://38.96.178.201/live/STARJALSHA/index.m3u8
 http://tv.bdiptv.store:80/live/restream/restreamz/52.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
-http://xplatinmedia.com:8080/live/Bmatt4133/ouux3dBoi63z9yQyfbdUi5qcn/93027.ts
+https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
 http://38.96.178.201/live/ColorsBangla/index.m3u8
