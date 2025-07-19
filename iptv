@@ -564,7 +564,7 @@ https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/43WkCMMz/Star-Plus.jpg",Star Plus HD
-
+http://smart.bengaldigital.live/Star-Plus/index.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/Vvfy53T4/Zee-Action.jpg",Zee Action
 
@@ -810,8 +810,8 @@ https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg",Star Movies Select HD
 
 
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",TBS
-
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",TLC
+http://smart.bengaldigital.live/TLC/index.m3u8
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",U&Gold
 
