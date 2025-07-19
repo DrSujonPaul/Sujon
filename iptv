@@ -377,7 +377,7 @@ http://smart.bengaldigital.live/Star-jalsha/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
 https://live.drmlive-02.workers.dev/zee/0-9-zeebangla.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
-http://kst.moonplex.net:8080/CH4/tracks-v1a1/mono.m3u8
+http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
 http://watchindia.net:8880/live/54355/61270/2283.ts
 
@@ -396,6 +396,9 @@ http://tv.bdiptv.store:80/live/restreax/refstream/238.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/DZkPVJfM/Zee-Bangla-Cinema.jpg",Zee Bangla Cinema
 https://live.drmlive-02.workers.dev/zee/0-9-zeebanglacinema.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/DZkPVJfM/Zee-Bangla-Cinema.jpg",Zee Bangla Cinema
+http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
+
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/662vVv5x/ABP-Ananda.jpg",ABP Ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
