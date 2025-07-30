@@ -365,11 +365,6 @@ http://filex.me:8080/live/1234567890/1234567890/522638.ts
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
 http://watchindia.net:8880/live/54355/61270/2281.ts
 
-
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
-https://live.drmlive-02.workers.dev/zee/0-9-zeebangla.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
-http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
 http://watchindia.net:8880/live/54355/61270/2283.ts
 
@@ -434,7 +429,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg",Sananda TV
-
+http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg",Bhi Channel
 http://15.235.185.236/hls/bhi.m3u8
