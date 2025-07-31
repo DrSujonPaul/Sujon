@@ -280,6 +280,9 @@ https://tvsen6.aynaott.com/etv/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/Nj5XJGD8/Ekushe.jpg",Ekushe ETV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/XxJ2W4KF/GTV.jpg",Filmy TV
+http://103.145.48.150:90/laosat24/filmytv/index.m3u8
+
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/XxJ2W4KF/GTV.jpg",GTV HD
 https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 
@@ -422,6 +425,9 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/qvPXDQ68/Enter10-Bangla.jpg",Mon Bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/qvPXDQ68/Enter10-Bangla.jpg",News 18 Bangla
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
+
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/3wPnKf19/Sony-Aath.jpg",R Plus News
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
@@ -445,8 +451,8 @@ http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg",Bhi Channel
 http://15.235.185.236/hls/bhi.m3u8
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg",News 18 Bangla
-
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg",Shemaroo Bangla
+http://103.145.48.150:90/laosat24/shemarootv/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
