@@ -15,6 +15,9 @@ https://ml@dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg",Star Sports 1 HD
 http://filex.me:8080/live/1234567890/1234567890/52094.ts
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/jSPkL6ZT/Star-Sports-1-HD-Hindi.jpg",Star Sports 1 HD Hindi
+http://filex.me:8080/live/1234567890/1234567890/90342.ts
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Star Sports 2 HD
 http://filex.me:8080/live/1234567890/1234567890/52096.ts
 
@@ -24,6 +27,11 @@ http://filex.me:8080/live/1234567890/1234567890/52096.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/q3rN5Jmp/Star-Sports-Select-1-HD.jpg",Star Sports Select 1 HD
 http://filex.me:8080/live/1234567890/1234567890/52100.ts
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/KYVKwLhK/Star-Sports-Select-2-HD.jpg",Star Sports Select 2 HD
+http://filex.me:8080/live/1234567890/1234567890/247162.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/7Jzck3ZR/PTV-Sports.jpg",PTV Sports
+http://filex.me:8080/live/1234567890/1234567890/247170.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/7Jzck3ZR/PTV-Sports.jpg",PTV Sports
 http://175.107.244.52:4457/play/a08g/index.m3u8
 
@@ -36,13 +44,13 @@ http://202.164.50.194:8000/play/a05f/index.m3u8
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/chunklist_b996000.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/b5cVh5Wp/Willow-HD.jpg",Willow HD
-
+http://filex.me:8080/live/1234567890/1234567890/52109.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Mr87xG7/A-Sports-HD.jpg",A Sports
-
+http://filex.me:8080/live/1234567890/1234567890/247168.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/VpLFC41v/Astro-Cricket.jpg",Astro Cricket
-
+http://filex.me:8080/live/1234567890/1234567890/451415.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2sv0bW0/Sony-Sports-1-HD.jpg",Sony Sports 1 HD
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
@@ -92,6 +100,9 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skyspnews
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Sky Sports Tennis
 https://ddy6new.newkso.ru/ddy6/premium576/mono.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg",Super Sports Cricket
+http://filex.me:8080/live/1234567890/1234567890/53044.ts
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/VpLFC41v/Astro-Cricket.jpg",Bein Sports 6
 http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
 
@@ -104,11 +115,14 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg",Euro Sport 1
 https://ddy6new.newkso.ru/ddy6/premium772/mono.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg",Fox Sports 1
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg",Fox Cricket 501
+http://filex.me:8080/live/1234567890/1234567890/247166.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg",Fox Soccer Plus
 https://ddy6new.newkso.ru/ddy6/premium756/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Zqvpmns1/Geo-Super.jpg",Geo Super
+http://filex.me:8080/live/1234567890/1234567890/52080.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/RFjrsn4P/M-Sports.jpg",M Sports
 http://103.101.197.10:8989/M_Movies/index.m3u8
@@ -148,6 +162,9 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/dubaisportshd/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Kgfo9ty.jpg",Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5/chunklist.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Fight Network
+http://filex.me:8080/live/1234567890/1234567890/495244.ts
+
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
@@ -166,34 +183,14 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp3
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/HT0W29vz/Tennis-Channel.jpg",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",T2
-
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Trace Sport
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Horse & Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/jSPkL6ZT/Star-Sports-1-HD-Hindi.jpg",Star Sports 1 HD Hindi
-
-
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/KYVKwLhK/Star-Sports-Select-2-HD.jpg",Star Sports Select 2 HD
-
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg",Super Sports Cricket
-
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Sports 18 HD
 
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Fight Network
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Zqvpmns1/Geo-Super.jpg",Geo Super
 
 
 
