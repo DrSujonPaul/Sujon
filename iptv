@@ -9,9 +9,6 @@ http://103.15.140.138/tsports/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg",Sony Liv
-https://ml@dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg",Star Sports 1 HD
 http://filex.me:8080/live/1234567890/1234567890/52094.ts
 
@@ -22,7 +19,7 @@ http://filex.me:8080/live/1234567890/1234567890/90342.ts
 http://filex.me:8080/live/1234567890/1234567890/52096.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/ryHX6q6V/Star-Sports-3.jpg",Star Sports 3 
-http://xtv.ooo:8080/live/1024078277/8839789611/167577.ts
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/q3rN5Jmp/Star-Sports-Select-1-HD.jpg",Star Sports Select 1 HD
 http://filex.me:8080/live/1234567890/1234567890/52100.ts
@@ -47,7 +44,6 @@ https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/chunklist_b996000.
 http://filex.me:8080/live/1234567890/1234567890/52109.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/b5cVh5Wp/Willow-HD.jpg",Willow 2 HD
-http://xtv.ooo:8080/live/1024078277/8839789611/167582.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Mr87xG7/A-Sports-HD.jpg",A Sports
 http://filex.me:8080/live/1234567890/1234567890/247168.ts
