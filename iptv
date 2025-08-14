@@ -31,7 +31,7 @@ http://nayatv.ydns.eu:80/live/xfireflix/flixfire/12474.ts
 http://nayatv.ydns.eu:80/live/xfireflix/flixfire/12475.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/7Jzck3ZR/PTV-Sports.jpg",PTV Sports
-http://filex.me:8080/live/1234567890/1234567890/247170.ts
+http://nayatv.ydns.eu:80/live/xfireflix/flixfire/12331.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/7Jzck3ZR/PTV-Sports.jpg",PTV Sports
 http://175.107.244.52:4457/play/a08g/index.m3u8
 
@@ -42,6 +42,8 @@ http://202.164.50.194:8000/play/a05f/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",Ten Sports HD
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/chunklist_b996000.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",Ten Sports HD
+http://nayatv.ydns.eu:80/live/xfireflix/flixfire/12330.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/b5cVh5Wp/Willow-HD.jpg",Willow HD
 http://filex.me:8080/live/1234567890/1234567890/52109.ts
@@ -49,7 +51,7 @@ http://filex.me:8080/live/1234567890/1234567890/52109.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/b5cVh5Wp/Willow-HD.jpg",Willow 2 HD
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Mr87xG7/A-Sports-HD.jpg",A Sports
-http://filex.me:8080/live/1234567890/1234567890/247168.ts
+http://nayatv.ydns.eu:80/live/xfireflix/flixfire/3834.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/VpLFC41v/Astro-Cricket.jpg",Astro Cricket
 http://filex.me:8080/live/1234567890/1234567890/451415.ts
@@ -577,10 +579,12 @@ http://filex.me:8080/live/1234567890/1234567890/275050.ts
 http://nayatv.ydns.eu:80/live/xfireflix/flixfire/3710.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/4y3qbp5T/Star-Gold-Select-HD.jpg",Star Gold Thrills
-
+http://nayatv.ydns.eu:80/live/xfireflix/flixfire/3711.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/43WkCMMz/Star-Plus.jpg",Star Plus HD
 http://smart.bengaldigital.live/Star-Plus/index.m3u8
+#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/43WkCMMz/Star-Plus.jpg",Star Plus HD
+http://nayatv.ydns.eu:80/live/xfireflix/flixfire/3714.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/Vvfy53T4/Zee-Action.jpg",Zee Action
 
