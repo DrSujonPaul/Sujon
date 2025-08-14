@@ -16,16 +16,19 @@ http://filex.me:8080/live/1234567890/1234567890/52094.ts
 https://starsportshindiii.pages.dev/720p.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Star Sports 2 HD
-http://filex.me:8080/live/1234567890/1234567890/52096.ts
+http://nayatv.ydns.eu:80/live/xfireflix/flixfire/11677.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Star Sports 2 HD Hindi
+http://nayatv.ydns.eu:80/live/xfireflix/flixfire/12473.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/ryHX6q6V/Star-Sports-3.jpg",Star Sports 3 
-
+http://nayatv.ydns.eu:80/live/xfireflix/flixfire/11682.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/q3rN5Jmp/Star-Sports-Select-1-HD.jpg",Star Sports Select 1 HD
-http://filex.me:8080/live/1234567890/1234567890/52100.ts
+http://nayatv.ydns.eu:80/live/xfireflix/flixfire/12474.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/KYVKwLhK/Star-Sports-Select-2-HD.jpg",Star Sports Select 2 HD
-http://filex.me:8080/live/1234567890/1234567890/247162.ts
+http://nayatv.ydns.eu:80/live/xfireflix/flixfire/12475.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/7Jzck3ZR/PTV-Sports.jpg",PTV Sports
 http://filex.me:8080/live/1234567890/1234567890/247170.ts
@@ -235,6 +238,8 @@ https://tvsen6.aynaott.com/boishakhitv/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/cJHPmjNJ/BTV.jpg",BTV
 https://tvsen6.aynaott.com/btvhd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/cJHPmjNJ/BTV.jpg",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/cJHPmjNJ/BTV.jpg",BTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational1.stream/playlist.m3u8
 
@@ -569,7 +574,7 @@ https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8
 http://filex.me:8080/live/1234567890/1234567890/275050.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/4y3qbp5T/Star-Gold-Select-HD.jpg",Star Gold Select
-http://filex.me:8080/live/1234567890/1234567890/275051.ts
+http://nayatv.ydns.eu:80/live/xfireflix/flixfire/3710.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/4y3qbp5T/Star-Gold-Select-HD.jpg",Star Gold Thrills
 
@@ -867,7 +872,7 @@ http://filex.me:8080/live/1234567890/1234567890/246720.ts
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/Y05S4Fjz/Animal-Planet.jpg",BBC Earth
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/Y05S4Fjz/Animal-Planet.jpg",BBC Earth
-http://filex.me:8080/live/1234567890/1234567890/246730.ts
+http://nayatv.ydns.eu:80/live/xfireflix/flixfire/3694.ts
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg",Discovery
 http://kst.moonplex.net:8080/CH9/index.m3u8
@@ -885,9 +890,11 @@ http://filex.me:8080/live/1234567890/1234567890/291720.ts
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg",National Geographic
 https://tiger-hub.vercel.app/National-Geographic_Bangla/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg",National Geographic
+http://nayatv.ydns.eu:80/live/xfireflix/flixfire/3684.ts
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg",Nat Geo Wild
-http://filex.me:8080/live/1234567890/1234567890/246728.ts
+http://nayatv.ydns.eu:80/live/xfireflix/flixfire/3686.ts
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg",Nat Geo Hindi
 http://filex.me:8080/live/1234567890/1234567890/246727.ts
