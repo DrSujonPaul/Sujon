@@ -504,10 +504,8 @@ https://server.zillarbarta.com/zillarbarta/index.m3u8
 
 
 
-
-
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/1R0kx5TF/Pictures-HD.jpg",&Pictures HD
-http://mag.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A6:AB:CA&stream=155997&extension=ts
+https://tvsky.noobmaster.xyz//051_andPictures_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/g0qJLPj6/TV.jpg",&TV
 
@@ -527,7 +525,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg",Colors HD
+https://tvsky.noobmaster.xyz//049_Colors_HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg",Colors Cineplex
+https://tvsky.noobmaster.xyz//050_Colors_Cineplex_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg",Dangal
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
@@ -559,10 +560,11 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 https://tataplay.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Max HD
+https://tvsky.noobmaster.xyz//040_Sony_Max/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Max HD
 https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Max HD
 https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Max HD
 
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Max 2
@@ -575,6 +577,8 @@ https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony TV
+https://tvsky.noobmaster.xyz//039_Sony_TV_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony TV
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony WAH
@@ -583,6 +587,8 @@ https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/QCGRcWyM/Star-Bharat-HD.jpg",Star Bharat HD
 http://filex.me:8080/live/1234567890/1234567890/21.ts
 
+#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/RhgbbqFx/Star-Gold.jpg",Star Gold HD
+https://tvsky.noobmaster.xyz//046_Star_Gold_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/RhgbbqFx/Star-Gold.jpg",Star Gold HD
 https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8
 
@@ -596,7 +602,7 @@ http://nayatv.ydns.eu:80/live/xfireflix/flixfire/3710.ts
 http://nayatv.ydns.eu:80/live/xfireflix/flixfire/3711.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/43WkCMMz/Star-Plus.jpg",Star Plus HD
-http://nayatv.ydns.eu:80/live/xfireflix/flixfire/3714.ts
+https://tvsky.noobmaster.xyz//045_Star_Plus_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/Vvfy53T4/Zee-Action.jpg",Zee Action
 
@@ -605,10 +611,12 @@ http://nayatv.ydns.eu:80/live/xfireflix/flixfire/3714.ts
 
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/NMwyVdy7/Zee-Cinema-HD.jpg",Zee Cinema HD
+https://tvsky.noobmaster.xyz//044_Zee_Cinema_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/NMwyVdy7/Zee-Cinema-HD.jpg",Zee Cinema HD
 http://smart.bengaldigital.live/ZeeCinema/index.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/CKg6KVX3/Zee-TV-HD.jpg",Zee TV HD
-
+https://tvsky.noobmaster.xyz//043_ZTV_HD/tracks-v1a1/mono.m3u8
 
 
 
@@ -704,6 +712,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/RhgbbqFx/Star-Gold.jpg",ZB Music
 https://server.zillarbarta.com/zbmusic/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/RhgbbqFx/Star-Gold.jpg",Zoom
+https://tvsky.noobmaster.xyz//079_Zoom_Music/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/RhgbbqFx/Star-Gold.jpg",30A Music
 https://30a-tv.com/music.m3u8
