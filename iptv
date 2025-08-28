@@ -389,8 +389,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
-https://tvsky.noobmaster.xyz//054_Star_Jalsha_HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
 http://103.122.252.100:8080/STAR-JALSHA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
@@ -563,7 +562,7 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 https://tataplay.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Max HD
-https://tvsky.noobmaster.xyz//040_Sony_Max/tracks-v1a1/mono.m3u8
+http://103.122.252.100:8080/SONY-MAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Max HD
 https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Max HD
@@ -580,7 +579,7 @@ https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony TV
-https://tvsky.noobmaster.xyz//039_Sony_TV_HD/tracks-v1a1/mono.m3u8
+http://103.122.252.100:8080/SONY-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony TV
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 
@@ -591,7 +590,7 @@ https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 http://filex.me:8080/live/1234567890/1234567890/21.ts
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/RhgbbqFx/Star-Gold.jpg",Star Gold HD
-https://tvsky.noobmaster.xyz//046_Star_Gold_HD/tracks-v1a1/mono.m3u8
+http://103.122.252.100:8080/STAR-GOLD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/RhgbbqFx/Star-Gold.jpg",Star Gold HD
 https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8
 
@@ -614,7 +613,7 @@ https://tvsky.noobmaster.xyz//045_Star_Plus_HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/NMwyVdy7/Zee-Cinema-HD.jpg",Zee Cinema HD
-https://tvsky.noobmaster.xyz//044_Zee_Cinema_HD/tracks-v1a1/mono.m3u8
+http://103.122.252.100:8080/ZEE-CINEMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/NMwyVdy7/Zee-Cinema-HD.jpg",Zee Cinema HD
 http://smart.bengaldigital.live/ZeeCinema/index.m3u8
 
@@ -727,8 +726,7 @@ https://30a-tv.com/music.m3u8
 
 
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duronto TV 
-https://tvsky.noobmaster.xyz//071_Duronto/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duronto TV 
 http://103.122.252.100:8080/DURONTO-TV/tracks-v1a1/mono.m3u8
 
