@@ -428,8 +428,6 @@ http://103.122.252.100:8080/ZEE-BANGLA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
 http://103.122.252.100:8080/COLORS-BANGLA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
-https://tvsen5.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla Cinema
 https://live.dinesh29.com.np/stream/jiotv/colorsbanglacinema/master.m3u8
@@ -450,7 +448,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/662vVv5x/ABP-Ananda.jpg",ABP Ananda
-http://filex.me:8080/live/1234567890/1234567890/522632.ts
+
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/Wbkn7K32/Akash-Aath.jpg",Akash Aath
 
