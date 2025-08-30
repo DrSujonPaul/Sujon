@@ -261,7 +261,7 @@ https://tvsen6.aynaott.com/channel9/tracks-v1a1/mono.ts.m3u8
 https://tvsen6.aynaott.com/channel24/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/BQzrR9JZ/DBC-News.jpg",DBC News
-https://tvsen6.aynaott.com/dbcnews/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/L6WP5g60/Deepto-TV.jpg",Deepto TV
 http://103.122.252.100:8080/DEEPTO-TV/tracks-v1a1/mono.m3u8
