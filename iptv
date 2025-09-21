@@ -265,7 +265,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 http://nayatv.ydns.eu:80/xfireflix/flixfire/13247.ts
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/Nj5XJGD8/Ekushe.jpg",Ekushe ETV
-http://nayatv.ydns.eu:80/xfireflix/flixfire/13245.ts
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/XxJ2W4KF/GTV.jpg",GTV HD
 
