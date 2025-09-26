@@ -361,11 +361,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
 https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
-http://starshare.org:8080/live/xpGPEBsE6y/adorable3drawer/23218.ts
+
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
 http://filex.me:8080/live/1234567890/1234567890/522638.ts
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
-https://aynapubluc.vercel.app/api/stream/f07177e9-d1a9-48b4-8e2e-1718d098bbfb.m3u8
+
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha
 https://live.dinesh29.com.np/stream/jiotvplus/starjalsha/master.m3u8
