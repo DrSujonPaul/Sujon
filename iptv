@@ -858,6 +858,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",WE TV
 https://ddy6new.newkso.ru/ddy6/premium655/mono.m3u8
 
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Zee Business
+https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 
 
 
@@ -1000,8 +1002,8 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/e3cYtrb.jpg",Yahoo News
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/e3cYtrb.jpg",WION
-
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/e3cYtrb.jpg",Zee News
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 
 
 
