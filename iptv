@@ -15,6 +15,9 @@ http://103.175.242.10:8080/starsports1/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Star Sports 2 HD
 http://103.175.242.10:8080/starsports2/index.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Star Sports 2 HD Hindi
+http://89.187.189.98/SPORTS18HD/index.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/ryHX6q6V/Star-Sports-3.jpg",Star Sports 3 
 
 
@@ -320,7 +323,7 @@ http://stvlive.net:8080/starjalsha/index.m3u8
 http://103.175.242.10:8080/zeebangla/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
-
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsBanglaHD/JCHLS/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla Cinema
 
@@ -405,8 +408,8 @@ https://server.zillarbarta.com/zillarbarta/index.m3u8
 
 
 
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/1R0kx5TF/Pictures-HD.jpg",&Pictures HD
-
+#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/1R0kx5TF/Pictures-HD.jpg",&Prive HD
+http://89.187.189.98/ANDPRIVEHD/index.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/g0qJLPj6/TV.jpg",&TV
 
@@ -421,7 +424,10 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg",Colors HD
+http://51.15.7.9:3141/colorshd/index.m3u8
 
+#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg",Colors Rishtey HD
+http://51.15.7.9:3141/rishtey/index.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg",Dangal
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
@@ -429,11 +435,14 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg",Dangal 2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
+#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg",Manoranjan Movies
+http://89.187.189.98/MANORANJANMOVIES/index.m3u8
+
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Shemaroo TV
 https://tvsen6.aynaott.com/ShemarooTV/index.m3u8
 
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Max HD
-
+#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Pal
+http://89.187.189.98/SONYPAL/index.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/yYmcX2Ds/Sony-SAB-HD.jpg",Sony Sab
 
@@ -444,10 +453,10 @@ https://tvsen5.aynaott.com/Wfn4bVp3dLgA/index.m3u8
 http://103.175.242.10:8080/sonyentten/index.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/QCGRcWyM/Star-Bharat-HD.jpg",Star Bharat HD
-http://filex.me:8080/live/1234567890/1234567890/21.ts
+http://51.15.7.9:3141/starbharat/index.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/RhgbbqFx/Star-Gold.jpg",Star Gold HD
-
+http://89.187.189.98/UTVMOVIES/index.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/RhgbbqFx/Star-Gold.jpg",Star Gold 2 HD
 
@@ -461,11 +470,14 @@ http://nayatv.ydns.eu:80/live/xfireflix/flixfire/3711.ts
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/43WkCMMz/Star-Plus.jpg",Star Plus HD
 
 
+#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/43WkCMMz/Star-Plus.jpg",Star Utsav Movies
+http://51.15.7.9:3141/starutsavmovies/index.m3u8
+
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/Vvfy53T4/Zee-Action.jpg",Zee Action
 
 
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/c4hjk9jG/Zee-Anmol.jpg",Zee Anmol
-
+#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/c4hjk9jG/Zee-Anmol.jpg",Zee Bollywood
+http://89.187.189.98/ZEEBOLLYWOOD/index.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/NMwyVdy7/Zee-Cinema-HD.jpg",Zee Cinema HD
 http://smart.bengaldigital.live/ZeeCinema/index.m3u8
@@ -676,8 +688,8 @@ https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playli
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg",CNBC
 
 
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg",Colors Infinity
-
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/SKhYrRFf/National-Geographic.jpg",Disney International
+http://89.187.189.98/DISNEYINTERNATIONALHD/index.m3u8
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.imgur.com/aju4mRV.jpg",HBO
 https://tvsen5.aynaott.com/hbo/index.m3u8
@@ -702,6 +714,12 @@ http://89.187.189.98/STARMOVIESHD/index.m3u8
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Zee Business
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Zee Cafe HD
+http://89.187.189.98/ZEECAFEHD/index.m3u8
+
+
+
 
 
 
