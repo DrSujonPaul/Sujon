@@ -58,6 +58,8 @@ https://tvsen7.aynaott.com/asports-bkp/index.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2sv0bW0/Sony-Sports-1-HD.jpg",Sony Sports 1 HD
+http://stvlive.net:8080/sonyten1/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2sv0bW0/Sony-Sports-1-HD.jpg",Sony Sports 1 HD
 http://51.15.7.9:3141/ten1/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg",Sony Sports 2 HD
@@ -91,6 +93,8 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysfor1
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg",Bein Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg",Bein Sports Extra
+http://stvlive.net:8080/beinsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg",RTA Sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
@@ -188,6 +192,9 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/13231.ts
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/76p1QShQ/BTV-Chattogram.jpg",BTV Chattogram
 
 
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/76p1QShQ/BTV-Chattogram.jpg",Channel S
+http://stvlive.net:8080/channels/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/tJq1jBzG/Channel-i.jpg",Channel I
 http://103.175.242.10:8080/channeli/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/tJq1jBzG/Channel-i.jpg",Channel I
@@ -195,6 +202,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/0NzFtxgL/Channel-9.jpg",Channel 9
 https://tvsen6.aynaott.com/channel9/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/0NzFtxgL/Channel-9.jpg",Channel 9
+http://stvlive.net:8080/channel9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/C1CCfh6n/Channel-24.jpg",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
@@ -203,7 +212,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/L6WP5g60/Deepto-TV.jpg",Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8?
+http://stvlive.net:8080/deepto/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/L6WP5g60/Deepto-TV.jpg",Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/h48D881V/Deshe-Bideshe.jpg",Deshe Bideshe
 
@@ -220,7 +231,7 @@ https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/G2XchN1w/Ekhon-TV.jpg",Ekhon TV
-
+http://stvlive.net:8080/ekhon/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/Nj5XJGD8/Ekushe.jpg",Ekushe ETV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -313,10 +324,16 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
-http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1487893
+
+
+
+
+
+
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
 https://tvsen5.aynaott.com/gUX8BJmNc2yF/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
+http://line.rain-ott.com:80/Ckks7HMG12/1VDpJ5Xj4q/1487893
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
 http://stvlive.net:8080/starjalsha/index.m3u8
 
@@ -333,7 +350,7 @@ https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsBanglaHD/JCHLS/index
 
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/cHRc7hTk/Sun-Bangla.jpg",Sun Bangla HD
-http://103.175.242.10:8080/sunbangla/index.m3u8
+http://stvlive.net:8080/sunbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/cHRc7hTk/Sun-Bangla.jpg",Sun Bangla HD
 https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 
@@ -629,10 +646,8 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Kids
 https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery 
-
-
-
 http://89.187.189.98/DISCOVERYKIDS/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duck TV
@@ -659,7 +674,6 @@ http://filex.me:8080/live/1234567890/1234567890/11.ts
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nicktoons
 https://tvsen5.aynaott.com/nicktoons/index.fmp4.m3u8
 
-
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
@@ -671,6 +685,9 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Sonic
 http://89.187.189.98/SONIC/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Sony Yay
+http://stvlive.net:8080/sonyyay/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
@@ -752,6 +769,9 @@ http://89.187.189.98/ANIMALPLANETHD/index.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/Y05S4Fjz/Animal-Planet.jpg",BBC Earth
 http://89.187.189.98/BBCEARTHHD/index.m3u8
+
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/Y05S4Fjz/Animal-Planet.jpg",BBC Lifestyle
+http://stvlive.net:8080/bbclifestyle/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg",Discovery
 https://tvsen6.aynaott.com/discovery_hd_bangla/index.m3u8
