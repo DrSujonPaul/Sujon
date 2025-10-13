@@ -48,7 +48,7 @@ http://89.187.189.98/STARSPORTSSELECT2HD/index.m3u8
 https://xfireflix.fun/file/opplex/stream.m3u8/?id=167568&e=.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/7Jzck3ZR/PTV-Sports.jpg",PTV Sports
-https://xfireflix.fun/file/opplex/stream.m3u8/?id=167567&e=.m3u8
+http://175.107.244.52:4456/play/a042
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/7hVCMDyZ/dd-sports.jpg",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
