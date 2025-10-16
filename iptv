@@ -809,6 +809,38 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="Radio" tvg-logo="",ROOTS AIR
+https://sslive.zeilsteen.com/;
+#EXTINF:-1 group-title="Radio" tvg-logo="",RADIO BONGO
+https://stream.bongonet.net/proxy/radiobongonet?mp=/stream/1/
+#EXTINF:-1 group-title="Radio" tvg-logo="",GO YESTERYEARS
+https://stream-163.zeno.fm/15wnypt6by8uv?zs=E6oAIy23RDijnCznNkGngw
+#EXTINF:-1 group-title="Radio" tvg-logo="",ROBI CHAYA
+https://stream.bongonet.net/proxy/robichhaya?mp=/stream/1/
+#EXTINF:-1 group-title="Radio" tvg-logo="",MONO PHONE
+https://stream.bongonet.net/proxy/monophone?mp=/stream/1/
+#EXTINF:-1 group-title="Radio" tvg-logo="",RADIO KOLKATA
+https://stream.bongonet.net/proxy/discobanikolkata?mp=/stream/1/
+#EXTINF:-1 group-title="Radio" tvg-logo="",RADIO ABIRVAB
+https://stream-152.zeno.fm/yxc3k2pxyrquv?zs=gznr8wJISzq6ErXp3gyovg
+#EXTINF:-1 group-title="Radio" tvg-logo="",RADIO BUSHRA
+https://stream-150.zeno.fm/mzuka1fdxzzuv?zs=pXvETkWgSPubDoMrhbMg0Q
+#EXTINF:-1 group-title="Radio" tvg-logo="",CAPITAL FM
+https://stream-156.zeno.fm/4nzaapqw34zuv?zs=8ulSXD48T0iu9j_b5sqFNQ
+#EXTINF:-1 group-title="Radio" tvg-logo="",BETAR TORONGO
+https://stream-151.zeno.fm/v7tnp975wqzuv?zs=FLSGvttXQn-TMaa14eXueA
+#EXTINF:-1 group-title="Radio" tvg-logo="",DHAKA FM
+https://stream-161.zeno.fm/u9mphfk604zuv?zs=adD8_fLrT5yTo2oMDjMiPQ
+#EXTINF:-1 group-title="Radio" tvg-logo="",RADIO GOONGOON
+https://audio.streamcast.xyz/radio/8000/radio.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="",PEOPLES RADIO
+https://s3.myradiostream.com:14498/;
+#EXTINF:-1 group-title="Radio" tvg-logo="",RADIO TODAY
+https://stream-147.zeno.fm/0zha3rfq02quv?zs=rDOxnyLeQSOiRvLte2dqEQ
+#EXTINF:-1 group-title="Radio" tvg-logo="",RADIO FOORTI
+https://stream-152.zeno.fm/cwa3vg8s8druv?zs=9jTU7o8sRi6FKLiV4E_BLQ
+#EXTINF:-1 group-title="Radio" tvg-logo="",RADIO PADMA
+https://radiopadmabd.radioca.st/stream/1/
 
 
 
