@@ -434,6 +434,8 @@ https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
 http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
+https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
 https://tiger-hub.vercel.app/Colors_bangla/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/KjcC2hkg/Colors-Bangla-Cinema.jpg",Colors Bangla Cinema
