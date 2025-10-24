@@ -7,23 +7,20 @@ http://stvlive.net:8080/tsports1/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqfwwQGH/Fancode.jpg",WWE
 https://tiger-hub.vercel.app/WWE/2/tracks-v1a1/mono.ts.m3u8
 
-
-Hub_Sports-1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqfwwQGH/Fancode.jpg",Hub Sports 1
 https://tiger-hub.vercel.app/Hub_Sports-1/tracks-v1a1/mono.ts.m3u8
 
-Hub_Sports-2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqfwwQGH/Fancode.jpg",Hub Sports 2
 https://tiger-hub.vercel.app/Hub_Sports-2/tracks-v1a1/mono.ts.m3u8
 
-Hub_Sports-3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqfwwQGH/Fancode.jpg",Hub Sports 3
 https://tiger-hub.vercel.app/Hub_Sports-3/tracks-v1a1/mono.ts.m3u8
 
-Hub_Sports-4
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqfwwQGH/Fancode.jpg",Hub Sports 4
 https://tiger-hub.vercel.app/Hub_Sports-4/tracks-v1a1/mono.ts.m3u8
 
-
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqfwwQGH/Fancode.jpg",Fancode
-https://bd-mc-fdlive.fancode.com/mumbai/137702_english_hls_a99a194daf68548ta-di_h264/1080p.m3u8
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Sony Liv
 https://dai.google.com/linear/hls/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8
@@ -67,7 +64,7 @@ http://116.90.120.149:8000/play/a0bv/index.m3u8
 http://116.90.120.149:8000/play/a0cs/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/ryHX6q6V/Star-Sports-3.jpg",Star Sports 3
-
+https://tiger-hub.vercel.app/Star_sports-3/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/q3rN5Jmp/Star-Sports-Select-1-HD.jpg",Star Sports Select 1 HD
 http://116.90.120.149:8000/play/a0cl/index.m3u8
@@ -196,12 +193,7 @@ http://66.102.120.18:8000/play/a03p
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Star Sports 1 HD Tamil
 http://ptu.ridsys.in/riptv/live/stream20/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",TSN 1
-http://212.102.60.231/TSN_1/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",TSN 4
-http://212.102.60.231/TSN_4/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",TSN 5
-http://212.102.60.231/TSN_5/index.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",FS 1 SPORT
 http://212.102.60.10/FOX_Sports_1/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",ESPN PREMIUM
