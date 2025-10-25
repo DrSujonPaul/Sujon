@@ -411,10 +411,14 @@ http://208.86.19.13:81/510.stream/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg",Star Jalsha HD
 https://tiger-hub.vercel.app/Star-jalsha/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg",Star Jalsha HD
+http://87.255.35.150:18237
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/d1PgMzVF/Star-Jalsha.jpg",Star Jalsha
 
 
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla 
+http://87.255.35.150:18238/
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
 https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
@@ -422,6 +426,8 @@ https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
+http://87.255.35.150:18236
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/KjcC2hkg/Colors-Bangla-Cinema.jpg",Colors Bangla Cinema
 
