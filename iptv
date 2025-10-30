@@ -925,20 +925,29 @@ http://66.102.120.18:8000/play/a02y
 
 
 
-#EXTINF:-1 group-title="Radio" tvg-logo="",Betar Torongo
-https://stream-151.zeno.fm/v7tnp975wqzuv?zs=FLSGvttXQn-TMaa14eXueA
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.postimg.cc/XqWB42xx/Betar-Torongo.jpg",Betar Torongo
+https://stream-151.zeno.fm/v7tnp975wqzuv
 
-#EXTINF:-1 group-title="Radio" tvg-logo="",Dhaka FM
-https://stream-161.zeno.fm/u9mphfk604zuv?zs=adD8_fLrT5yTo2oMDjMiPQ
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.postimg.cc/7YshWYvW/Dhaka-FM.jpg",Dhaka FM
+https://stream-161.zeno.fm/u9mphfk604zuv
 
-#EXTINF:-1 group-title="Radio" tvg-logo="",Peoples Radio
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.postimg.cc/tg0XKsBN/Peoples-Radio.jpg",Peoples Radio
 https://s3.myradiostream.com:14498
 
-#EXTINF:-1 group-title="Radio" tvg-logo="",Radio Goongoon
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.postimg.cc/3wgDV5FC/Radio-Bhumi.jpg",Radio Bhumi
+https://stream.zeno.fm/be5bqmk1k18uv
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.postimg.cc/59ZQ42K5/Radio-Foorti.jpg",Radio Foorti
+https://stream.zeno.fm/cwa3vg8s8druv
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.postimg.cc/50sW-2ymN/Radio-Goongoon.jpg",Radio Goongoon
 https://audio.streamcast.xyz/radio/8000/radio.mp3
 
-#EXTINF:-1 group-title="Radio" tvg-logo="",Radio Padma
-https://radiopadmabd.radioca.st/stream/1/
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.postimg.cc/kgQZ5Dnw/Radio-Padma.jpg",Radio Padma
+https://radiopadmabd.radioca.st/stream/1
 
-#EXTINF:-1 group-title="Radio" tvg-logo="",Roots Air
-https://sslive.zeilsteen.com/
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.postimg.cc/cCd7X4qG/Radio-Purbakantho.jpg",Radio Purbakantho
+https://stream.zeno.fm/6nuqpxcw81zuv
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.postimg.cc/L8jX6kYN/Rajshahi-FM.jpg",Rajshahi FM
+https://stream.zeno.fm/nxfshdayjrdvv
