@@ -446,7 +446,7 @@ https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/DZkPVJfM/Zee-Bangla-Cinema.jpg",Zee Bangla Cinema
-https://tiger-hub.vercel.app/Zee-bangla-Cinema/tracks-v1a1/mono.ts.m3u8
+https://bongoflixbd.top/test/live.php?id=zee_bangla_cinema&e=.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/DZkPVJfM/Zee-Bangla-Cinema.jpg",Zee Bangla Cinema
 https://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 
@@ -580,8 +580,11 @@ https://tiger-hub.vercel.app/SONY/Max/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony TV
 http://66.102.120.18:8000/play/a005
 
+#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony Max
+https://bongoflixbd.top/test/live.php?id=sony_max&e=.m3u8
+
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony Max 2
-https://tiger-hub.vercel.app/SONY/MaxUK-2/tracks-v1a1/mono.ts.m3u8
+https://bongoflixbd.top/test/live.php?id=sonymax_2&e=.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony Wah
 https://tiger-hub.vercel.app/SONY/Wah/tracks-v1a1/mono.ts.m3u8
@@ -632,10 +635,14 @@ http://116.90.120.149:8000/play/a02r/index.m3u8
 http://66.102.120.18:8000/play/a00n
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/NMwyVdy7/Zee-Cinema-HD.jpg",Zee Cinema HD
+https://bongoflixbd.top/test/live.php?id=zee_cinema_hd&e=.m3u8
+#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/NMwyVdy7/Zee-Cinema-HD.jpg",Zee Cinema HD
 http://smart.bengaldigital.live/ZeeCinema/index.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/NMwyVdy7/Zee-Cinema-HD.jpg",Zee Cinema HD
 http://66.102.120.18:8000/play/a06w
 
+#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/CKg6KVX3/Zee-TV-HD.jpg",Zee TV HD
+https://bongoflixbd.top/test/live.php?id=zee_tv_hd&e=.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/CKg6KVX3/Zee-TV-HD.jpg",Zee TV HD
 http://66.102.120.18:8000/play/a00y
 
