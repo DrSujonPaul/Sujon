@@ -112,6 +112,9 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Fight Network
 
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/HT0W29vz/Tennis-Channel.jpg",Tennis Channel
 http://212.102.60.10/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/HT0W29vz/Tennis-Channel.jpg",Tennis Channel
@@ -492,9 +495,9 @@ http://66.102.120.18:8000/play/a00a
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg",Colors HD
 http://87.255.35.150:18890/
 
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Colors Cineplex HD
+#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Colors Cineplex HD
 http://66.102.120.18:8000/play/a06z
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Colors Cineplex HD
+#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Colors Cineplex HD
 http://87.255.35.150:18296/
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/CKg6KVX3/Zee-TV-HD.jpg",Colors Cineplex Bollywood
@@ -696,82 +699,60 @@ https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon_Network
-http://78.108.251.7/Cartoon_Network/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
 http://66.102.120.18:8000/play/a00t
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
 http://66.102.120.18:8000/play/a011
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Family Channel
-http://212.102.60.10/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Kids
 https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Kids 
 http://66.102.120.18:8000/play/a00k
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Kids
-https://dplus.gammacdn.workers.dev/videos/113.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duck TV
-https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",DuckTV
-http://78.108.251.7/DuckTV/index.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disney_Junior
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disney Junior
 http://78.108.251.7/Disney_Junior/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disney Junior
+http://66.102.120.18:8000/play/a004
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Boomerang
-http://78.108.251.7/Boomerang/index.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Nick Jr
-http://78.108.251.7/Nick_Jr/index.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disney Channel SD
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disney Channel
 http://116.90.120.149:8000/play/a0bx/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disney Channel
+http://66.102.120.18:8000/play/a070
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disney Channel
+http://103.182.170.32:8888/play/a04g
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disney International HD
 http://66.102.120.18:8000/play/a078
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disney Junior
-http://66.102.120.18:8000/play/a004
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duck TV
+https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disny
-http://66.102.120.18:8000/play/a070
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Kidzone Pakistan
-http://66.102.120.18:8000/play/a02l
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",MINIMAX 2
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Minimax 
 http://66.102.120.18:8000/play/a04o
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Nick
 http://66.102.120.18:8000/play/a00w
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Nick HD+
 http://66.102.120.18:8000/play/a07a
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Nick Jr.
 http://66.102.120.18:8000/play/a00m
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Planet Fun HD
-http://66.102.120.18:8000/play/a02k
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg",Pogo
-http://66.102.120.18:8000/play/a00l
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",SONY YAY
-http://66.102.120.18:8000/play/a00s
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Sonic
-http://66.102.120.18:8000/play/a00p
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disney Channel
-http://103.182.170.32:8888/play/a04g
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",EKids
-http://78.108.251.7/EKids/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",BabyTV
-http://78.108.251.7/BabyTV/index.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",NickToons
-http://78.108.251.7/NickToons/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Nick
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Planet Fun HD
+http://66.102.120.18:8000/play/a02k
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg",Pogo
+http://66.102.120.18:8000/play/a00l
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Sony Yay
+http://66.102.120.18:8000/play/a00s
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Sonic
+http://66.102.120.18:8000/play/a00p
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
@@ -783,38 +764,6 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Radio" tvg-logo="",ROOTS AIR
-https://sslive.zeilsteen.com/;
-#EXTINF:-1 group-title="Radio" tvg-logo="",RADIO BONGO
-https://stream.bongonet.net/proxy/radiobongonet?mp=/stream/1/
-#EXTINF:-1 group-title="Radio" tvg-logo="",GO YESTERYEARS
-https://stream-163.zeno.fm/15wnypt6by8uv?zs=E6oAIy23RDijnCznNkGngw
-#EXTINF:-1 group-title="Radio" tvg-logo="",ROBI CHAYA
-https://stream.bongonet.net/proxy/robichhaya?mp=/stream/1/
-#EXTINF:-1 group-title="Radio" tvg-logo="",MONO PHONE
-https://stream.bongonet.net/proxy/monophone?mp=/stream/1/
-#EXTINF:-1 group-title="Radio" tvg-logo="",RADIO KOLKATA
-https://stream.bongonet.net/proxy/discobanikolkata?mp=/stream/1/
-#EXTINF:-1 group-title="Radio" tvg-logo="",RADIO ABIRVAB
-https://stream-152.zeno.fm/yxc3k2pxyrquv?zs=gznr8wJISzq6ErXp3gyovg
-#EXTINF:-1 group-title="Radio" tvg-logo="",RADIO BUSHRA
-https://stream-150.zeno.fm/mzuka1fdxzzuv?zs=pXvETkWgSPubDoMrhbMg0Q
-#EXTINF:-1 group-title="Radio" tvg-logo="",CAPITAL FM
-https://stream-156.zeno.fm/4nzaapqw34zuv?zs=8ulSXD48T0iu9j_b5sqFNQ
-#EXTINF:-1 group-title="Radio" tvg-logo="",BETAR TORONGO
-https://stream-151.zeno.fm/v7tnp975wqzuv?zs=FLSGvttXQn-TMaa14eXueA
-#EXTINF:-1 group-title="Radio" tvg-logo="",DHAKA FM
-https://stream-161.zeno.fm/u9mphfk604zuv?zs=adD8_fLrT5yTo2oMDjMiPQ
-#EXTINF:-1 group-title="Radio" tvg-logo="",RADIO GOONGOON
-https://audio.streamcast.xyz/radio/8000/radio.mp3
-#EXTINF:-1 group-title="Radio" tvg-logo="",PEOPLES RADIO
-https://s3.myradiostream.com:14498/;
-#EXTINF:-1 group-title="Radio" tvg-logo="",RADIO TODAY
-https://stream-147.zeno.fm/0zha3rfq02quv?zs=rDOxnyLeQSOiRvLte2dqEQ
-#EXTINF:-1 group-title="Radio" tvg-logo="",RADIO FOORTI
-https://stream-152.zeno.fm/cwa3vg8s8druv?zs=9jTU7o8sRi6FKLiV4E_BLQ
-#EXTINF:-1 group-title="Radio" tvg-logo="",RADIO PADMA
-https://radiopadmabd.radioca.st/stream/1/
 
 
 
@@ -825,60 +774,77 @@ https://radiopadmabd.radioca.st/stream/1/
 
 
 
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Quran
-http://164.215.98.132:2082/8649G54859/8649G54859/7217
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Ilm TV
+
+
+
+
+
+
+#EXTINF:-1 group-title="Religion" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Ilm TV
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Deen TV UK
-https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Peace TV Bangla
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Eman
-https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",TV One
-https://ap02.iqplay.tv:8082/iqb8002/tv01/playlist.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Iqra Bangla
-https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Taqbeer TV
-https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Madani Channel Bangla 
-https://ap02.iqplay.tv:8082/iqb8002/m@d@n1ch@nn3lb@ngl@/playlist.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Islam TV
-https://ap02.iqplay.tv:8082/iqb8002/i6sl9m/playlist.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Makka TV
-https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",QTV
-https://ap02.iqplay.tv:8082/iqb8002/@ryq7vtv/chunks.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Sanskar TV
-https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Redbull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Discovery HD
+#EXTINF:-1 group-title="Religion" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Quran
+http://164.215.98.132:2082/8649G54859/8649G54859/7217
+
+#EXTINF:-1 group-title="Religion" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Makka TV
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+
+#EXTINF:-1 group-title="Religion" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+
+#EXTINF:-1 group-title="Religion" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Sanskar TV
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Discovery HD
 http://78.108.251.7/Discovery_HD/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Discovery HD
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Discovery HD
 http://151.80.18.177:86/Discovery_HD/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Histoire HD
+
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Histoire HD
 http://151.80.18.177:86/Histoire/index.m3u8
 
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Travel Club
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Travel Club
 https://network24.live:4433/Travelclub/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Travel Channel HD
+http://78.108.251.7/Travel_Channel_HD/index.m3u8
 
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",TF1_HD
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",TF1 HD
 http://151.80.18.177:86/TF1_HD/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",RTL9 HD
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",RTL9 HD
 http://151.80.18.177:86/RTL9/index.m3u8
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",BBC
 http://78.108.251.7/BBC/index.m3u8
+
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",CNN HD
 http://78.108.251.7/CNN/index.m3u8
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",CNN HD
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",RTVi
 http://78.108.251.7/RTVi/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Travel_Channel_HD
-http://78.108.251.7/Travel_Channel_HD/index.m3u8
+
+
+
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",&flix HD
 http://66.102.120.18:8000/play/a022
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",24 News HD
@@ -948,3 +914,31 @@ http://66.102.120.18:8000/play/a017
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Capital TV
 http://66.102.120.18:8000/play/a02y
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Radio" tvg-logo="",Betar Torongo
+https://stream-151.zeno.fm/v7tnp975wqzuv?zs=FLSGvttXQn-TMaa14eXueA
+
+#EXTINF:-1 group-title="Radio" tvg-logo="",Dhaka FM
+https://stream-161.zeno.fm/u9mphfk604zuv?zs=adD8_fLrT5yTo2oMDjMiPQ
+
+#EXTINF:-1 group-title="Radio" tvg-logo="",Peoples Radio
+https://s3.myradiostream.com:14498
+
+#EXTINF:-1 group-title="Radio" tvg-logo="",Radio Goongoon
+https://audio.streamcast.xyz/radio/8000/radio.mp3
+
+#EXTINF:-1 group-title="Radio" tvg-logo="",Radio Padma
+https://radiopadmabd.radioca.st/stream/1/
+
+#EXTINF:-1 group-title="Radio" tvg-logo="",Roots Air
+https://sslive.zeilsteen.com/
