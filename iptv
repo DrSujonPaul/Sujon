@@ -1,54 +1,7 @@
 #EXTM3U
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD
 http://116.204.149.16/t_sports/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD
-http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD
-http://stvlive.net:8080/tsports1/index.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqfwwQGH/Fancode.jpg",WWE
-https://tiger-hub.vercel.app/WWE/2/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqfwwQGH/Fancode.jpg",Hub Sports 1
-https://tiger-hub.vercel.app/Hub_Sports-1/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqfwwQGH/Fancode.jpg",Hub Sports 2
-https://tiger-hub.vercel.app/Hub_Sports-2/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqfwwQGH/Fancode.jpg",Hub Sports 3
-https://tiger-hub.vercel.app/Hub_Sports-3/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqfwwQGH/Fancode.jpg",Hub Sports 4
-https://tiger-hub.vercel.app/Hub_Sports-4/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqfwwQGH/Fancode.jpg",Fancode
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Sony Liv
-https://dai.google.com/linear/hls/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Eurosport HD 
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Eurosport HD 
-http://66.102.120.18:8000/play/a01g
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/VpLFC41v/Astro-Cricket.jpg",A Sports
-http://66.102.120.18:8000/play/a032
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/VpLFC41v/Astro-Cricket.jpg",Astro Cricket
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg",Fox Cricket 501
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g0XYC8FP/Sky-Sports-Cricket.jpg",Sky Sports Cricket
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/b5cVh5Wp/Willow-HD.jpg",Willow HD
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/b5cVh5Wp/Willow-HD.jpg",Willow 2 HD
-
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg",Star Sports 1 HD
 http://116.90.120.149:8000/play/a0ba/index.m3u8
@@ -68,7 +21,7 @@ http://87.255.35.150:18892
 http://116.90.120.149:8000/play/a0cs/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/ryHX6q6V/Star-Sports-3.jpg",Star Sports 3
-https://tiger-hub.vercel.app/Star_sports-3/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/q3rN5Jmp/Star-Sports-Select-1-HD.jpg",Star Sports Select 1 HD
 http://116.90.120.149:8000/play/a0cl/index.m3u8
@@ -78,26 +31,9 @@ http://87.255.35.150:18893
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/KYVKwLhK/Star-Sports-Select-2-HD.jpg",Star Sports Select 2 HD
 http://116.90.120.149:8000/play/a0cm/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Zqvpmns1/Geo-Super.jpg",Geo Super
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/7Jzck3ZR/PTV-Sports.jpg",PTV Sports
-http://175.107.244.52:4456/play/a042
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/7Jzck3ZR/PTV-Sports.jpg",PTV Sports
-http://66.102.120.18:8000/play/a04w
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",Ten Sports HD
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Mr87xG7/A-Sports-HD.jpg",Euro Sport
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2sv0bW0/Sony-Sports-1-HD.jpg",Sony Sports 1 HD 
-https://tiger-hub.vercel.app/SONY/Sports-1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/m2sv0bW0/Sony-Sports-1-HD.jpg",Sony Sports 1 HD 
 http://66.102.120.18:8000/play/a002
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg",Sony Sports 2 HD
-https://tiger-hub.vercel.app/SONY/Sports-2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/v8rY12Yw/Sony-Sports-2-HD.jpg",Sony Sports 2 HD
 http://66.102.120.18:8000/play/a01y
 
@@ -108,9 +44,47 @@ http://66.102.120.18:8000/play/a001
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/8gykwqxf/Sony-Sports-5-HD.jpg",Sony Sports 5 HD
-https://tiger-hub.vercel.app/SONY/Sports-5/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/8gykwqxf/Sony-Sports-5-HD.jpg",Sony Sports 5 HD
 http://66.102.120.18:8000/play/a010
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Sony Liv
+https://dai.google.com/linear/hls/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Eurosport HD 
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/5091KXGg/Sports-18.jpg",Eurosport HD 
+http://66.102.120.18:8000/play/a01g
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XqfwwQGH/Fancode.jpg",Fancode
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Zqvpmns1/Geo-Super.jpg",Geo Super
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Mr87xG7/A-Sports-HD.jpg",A Sports
+http://66.102.120.18:8000/play/a032
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/VpLFC41v/Astro-Cricket.jpg",Astro Cricket
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg",Fox Cricket 501
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/7Jzck3ZR/PTV-Sports.jpg",PTV Sports
+http://175.107.244.52:4456/play/a042
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/7Jzck3ZR/PTV-Sports.jpg",PTV Sports
+http://66.102.120.18:8000/play/a04w
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g0XYC8FP/Sky-Sports-Cricket.jpg",Sky Sports Cricket
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/b5cVh5Wp/Willow-HD.jpg",Willow HD
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/b5cVh5Wp/Willow-HD.jpg",Willow 2 HD
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/x1VYmp0L/Ten-Sports.jpg",Ten Sports HD
+
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/7hVCMDyZ/dd-sports.jpg",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
@@ -137,14 +111,6 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Fight Network
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",K Sports 1
-https://tiger-hub.vercel.app/SPORT-ZONE/K-Sports_1/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",K Sports 2
-https://tiger-hub.vercel.app/SPORT-ZONE/K-Sports_2/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",K Sports 3
-https://tiger-hub.vercel.app/SPORT-ZONE/K-Sports_3/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/HT0W29vz/Tennis-Channel.jpg",Tennis Channel
 http://212.102.60.10/TENNIS_CHANNEL/index.m3u8
@@ -157,31 +123,23 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Trace Sport
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/1zGyNBS9/TNT-Sports.jpg",TSN Sports 1
-https://tiger-hub.vercel.app/SPORT-ZONE/TSN-1/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/1zGyNBS9/TNT-Sports.jpg",TSN Sports 1
 http://212.102.60.231/TSN_1/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/1zGyNBS9/TNT-Sports.jpg",TSN Sports 2
-https://tiger-hub.vercel.app/SPORT-ZONE/TSN-2/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/1zGyNBS9/TNT-Sports.jpg",TSN Sports 2
 http://212.102.60.231/TSN_2/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/1zGyNBS9/TNT-Sports.jpg",TSN Sports 3
-https://tiger-hub.vercel.app/SPORT-ZONE/TSN-3/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/1zGyNBS9/TNT-Sports.jpg",TSN Sports 3
 http://212.102.60.231/TSN_3/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/1zGyNBS9/TNT-Sports.jpg",TSN Sports 4
-https://tiger-hub.vercel.app/SPORT-ZONE/TSN-4/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/1zGyNBS9/TNT-Sports.jpg",TSN Sports 4
 http://212.102.60.231/TSN_4/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/1zGyNBS9/TNT-Sports.jpg",TSN Sports 5
 http://212.102.60.231/TSN_5/index.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/1zGyNBS9/TNT-Sports.jpg",See Sports 3
-https://tiger-hub.vercel.app/SPORT-ZONE/TSN-6/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Horse & Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
@@ -425,8 +383,6 @@ http://87.255.35.150:18237
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla 
 http://87.255.35.150:18238/
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
-https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
 https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
@@ -436,14 +392,11 @@ http://87.255.35.150:18236
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/KjcC2hkg/Colors-Bangla-Cinema.jpg",Colors Bangla Cinema
 
-
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/cHRc7hTk/Sun-Bangla.jpg",Sun Bangla HD
-https://tiger-hub.vercel.app/Sun-bangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/cHRc7hTk/Sun-Bangla.jpg",Sun Bangla HD
 https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/qq07hbRM/Jalsha-Movies-HD.jpg",Jalsha Movies HD
-https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/DZkPVJfM/Zee-Bangla-Cinema.jpg",Zee Bangla Cinema
 https://bongoflixbd.top/test/live.php?id=zee_bangla_cinema&e=.m3u8
@@ -482,8 +435,6 @@ https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/3wPnKf19/Sony-Aath.jpg",Sony Aath
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/3wPnKf19/Sony-Aath.jpg",Sony Aath
-https://tiger-hub.vercel.app/Sony-aath/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg",Tara Bangla Cinema
 http://103.145.48.150:90/laosat24/taratv/tracks-v1a1/mono.m3u8
@@ -525,8 +476,6 @@ https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 http://66.102.120.18:8000/play/a01t
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/g0qJLPj6/TV.jpg",&TV
-https://tiger-hub.vercel.app/&TV/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/g0qJLPj6/TV.jpg",&TV
 http://66.102.120.18:8000/play/a01u
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/rmBYB7GQ/Bhojpuri-Cinema.jpg",B4U Movies
@@ -564,19 +513,11 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/yYmcX2Ds/Sony-SAB-HD.jpg",Sony Sab
-https://tiger-hub.vercel.app/SONY/SAB/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/yYmcX2Ds/Sony-SAB-HD.jpg",Sony Sab
 http://66.102.120.18:8000/play/a00d
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/yYmcX2Ds/Sony-SAB-HD.jpg",Sab TV
-https://tiger-hub.vercel.app/SONY/SAB/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/yYmcX2Ds/Sony-SAB-HD.jpg",Sab TV
 http://66.102.120.18:8000/play/a035
 
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony TV
-https://tiger-hub.vercel.app/SONY/Entertainment/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony TV
-https://tiger-hub.vercel.app/SONY/Max/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony TV
 http://66.102.120.18:8000/play/a005
 
@@ -587,7 +528,7 @@ https://bongoflixbd.top/test/live.php?id=sony_max&e=.m3u8
 https://bongoflixbd.top/test/live.php?id=sonymax_2&e=.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony Wah
-https://tiger-hub.vercel.app/SONY/Wah/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/QCGRcWyM/Star-Bharat-HD.jpg",Star Bharat HD
 http://66.102.120.18:8000/play/a012
@@ -702,7 +643,7 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209587/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/MkFsM39.png",MTV
-https://tiger-hub.vercel.app/Mtv-music_hollywood/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/RZJmcSt6/9XM.jpg",Music TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
@@ -710,8 +651,6 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/pLG976s5/Sangeet-Bangla.jpg",Saga Music
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/5e027b28-fb0e-49cc-9962-44babcc450ce/0.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/pLG976s5/Sangeet-Bangla.jpg",Sangeet Bangla
-https://tiger-hub.vercel.app/Sangeet-Bangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/pLG976s5/Sangeet-Bangla.jpg",Sangeet Bangla
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2906.ts
 
@@ -743,14 +682,6 @@ http://66.102.120.18:8000/play/a046
 
 
 
-
-
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Angry Bird
-https://tiger-hub.vercel.app/kids_Zone/Angry-birds/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Angry Bird Blue
-https://tiger-hub.vercel.app/kids_Zone/Angry-birds--Blue/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duronto TV
 https://tvsen4.aynaott.com/durontotv/index.m3u8
@@ -808,20 +739,8 @@ http://66.102.120.18:8000/play/a004
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disny
 http://66.102.120.18:8000/play/a070
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Grizzy & the Lemmings
-https://tiger-hub.vercel.app/kids_Zone/Grizzy&the-Lemmings/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Kidzone Pakistan
 http://66.102.120.18:8000/play/a02l
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Larva
-https://tiger-hub.vercel.app/kids_Zone/Larva/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Masha & the Bear
-https://tiger-hub.vercel.app/kids_Zone/Marsha&theBear/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Mighty Little Bhim
-https://tiger-hub.vercel.app/kids_Zone/Mighty-Little-Bim/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",MINIMAX 2
 http://66.102.120.18:8000/play/a04o
@@ -847,8 +766,6 @@ http://78.108.251.7/EKids/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",BabyTV
 http://78.108.251.7/BabyTV/index.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Micky Mouse
-https://tiger-hub.vercel.app/kids_Zone/Micky-mouse/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",NickToons
 http://78.108.251.7/NickToons/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Nick
@@ -856,22 +773,9 @@ http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Pink Panther
-https://tiger-hub.vercel.app/kids_Zone/Pink-Panther/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Shaun the Sheep
-https://tiger-hub.vercel.app/kids_Zone/Shaun-the-sheep/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Sony Yay
-https://tiger-hub.vercel.app/SONY/YAY/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Spiderman Kids
-https://tiger-hub.vercel.app/kids_Zone/Spiderman-kids/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Tom & Jerry
-https://tiger-hub.vercel.app/kids_Zone/Tom&Jerry/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
 
 
 
@@ -950,17 +854,12 @@ https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/in
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Discovery Bangla HD
-https://tiger-hub.vercel.app/Discovery-Bangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Discovery HD
 http://78.108.251.7/Discovery_HD/index.m3u8
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Discovery HD
 http://151.80.18.177:86/Discovery_HD/index.m3u8
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Histoire HD
 http://151.80.18.177:86/Histoire/index.m3u8
-
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Sony BBC Earth
-https://tiger-hub.vercel.app/SONY/BBC_Earth/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Travel Club
 https://network24.live:4433/Travelclub/tracks-v1a1/mono.m3u8
@@ -969,12 +868,6 @@ https://network24.live:4433/Travelclub/tracks-v1a1/mono.m3u8
 http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",RTL9 HD
 http://151.80.18.177:86/RTL9/index.m3u8
-
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Sony Movies
-https://tiger-hub.vercel.app/SONY/MoviesUK/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Sony Pix
-https://tiger-hub.vercel.app/SONY/Pix/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",BBC
 http://78.108.251.7/BBC/index.m3u8
