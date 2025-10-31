@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg",Fox Cricket 501
+https://foxenglish.pages.dev/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Q3F9JyKH/T-Sports.jpg",T Sports HD
 http://116.204.149.16/t_sports/index.m3u8
 
@@ -65,10 +68,7 @@ http://66.102.120.18:8000/play/a032
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/VpLFC41v/Astro-Cricket.jpg",Astro Cricket
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg",Fox Cricket 501
-https://hugh.cdn.rumble.cloud/live/4gf18j5s/slot-99/8cvk-zh9f/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/cC5zmCyv/Supersports-Cricket.jpg",Fox Cricket 501
-https://hugh.cdn.rumble.cloud/live/u7gf26qm/slot-15/qiz6-ltf7/chunklist.m3u8
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/7Jzck3ZR/PTV-Sports.jpg",PTV Sports
 http://175.107.244.52:4456/play/a042
@@ -348,6 +348,8 @@ http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/3527.m3u8
 http://87.255.35.150:18237
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg",Star Jalsha HD
 http://agh2019.xyz/SOFIANBENAISSA/X7KJL94/34726
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg",Star Jalsha HD
+http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/3527.ts
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/d1PgMzVF/Star-Jalsha.jpg",Star Jalsha
 
