@@ -1,9 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg",Star Jalsha HD
-http://103.175.242.10:8080/starjalsha/index.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg",Star Jalsha HD
-http://starshare.st/live/haPPy/haPPy123/23218.ts
+http://87.255.35.150:18237
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg",Star Jalsha HD
 http://agh2019.xyz/SOFIANBENAISSA/X7KJL94/34726
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg",Star Jalsha HD
@@ -12,8 +10,6 @@ http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/3527.ts
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/d1PgMzVF/Star-Jalsha.jpg",Star Jalsha
 
 
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
-http://103.175.242.10:8080/zeebangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
 http://87.255.35.150:18238/
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
