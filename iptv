@@ -27,7 +27,7 @@ http://87.255.35.150:18236
 https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/qq07hbRM/Jalsha-Movies-HD.jpg",Jalsha Movies HD
-http://stvlive.net:8080/jalshamovies/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/DZkPVJfM/Zee-Bangla-Cinema.jpg",Zee Bangla Cinema
 https://bongoflixbd.top/test/live.php?id=zee_bangla_cinema&e=.m3u8
@@ -109,8 +109,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-vid
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/PxyNJrGm/ATN-News.jpg",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/PxyNJrGm/ATN-News.jpg",ATN News
-http://stvlive.net:8080/atnnews/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/qqXGm6D1/Bangla-TV.jpg",Bangla TV
 
@@ -137,8 +135,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/master.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/tJq1jBzG/Channel-i.jpg",Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=2202800.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/tJq1jBzG/Channel-i.jpg",Channel I
-http://stvlive.net:8080/channeli/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/76p1QShQ/BTV-Chattogram.jpg",Channel S
 
@@ -161,8 +157,6 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/wvBbd56q/Desh-TV.jpg",Desh TV
 
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/t4cxjxRj/Deshi-TV.jpg",Deshi TV
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/JzDLh7pB/Ekattor.jpg",Ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=2202800.m3u8
@@ -171,7 +165,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-vid
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/Nj5XJGD8/Ekushe.jpg",Ekushe ETV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/XxJ2W4KF/GTV.jpg",GTV HD
 
@@ -184,14 +178,12 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-vid
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/63K8YKmD/Jamuna-TV.jpg",Jamuna TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=2202800.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/63K8YKmD/Jamuna-TV.jpg",Jamuna TV
-http://stvlive.net:8080/jamuna/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/4NVxpW6t/Maasranga.jpg",Maasranga TV
-https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
+
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/4NVxpW6t/Maasranga.jpg",Magic Bangla TV
-http://mbanglatv.jolshabd.com:1935/live/mbanglatv/chunklist_w1542703515.m3u8
+
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/qMZKm8Fc/ME-TV.jpg",Me TV
 
@@ -204,7 +196,7 @@ http://mbanglatv.jolshabd.com:1935/live/mbanglatv/chunklist_w1542703515.m3u8
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/XY60wPgT/My-TV.jpg",My TV
-https://mytvbangla.com/0.m3u8
+
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/zfrz2hw9/NTV.jpg",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=2202800.m3u8
@@ -235,17 +227,12 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-vid
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/hvcWR1Yz/Somoy-TV.jpg",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/hvcWR1Yz/Somoy-TV.jpg",Somoy TV
-http://stvlive.net:8080/somoy/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/tRKzj7Vk/Times-24.jpg",Times 24
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/fT8DBYCL/TBN24.jpg",TBN 24
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/qMV3pHHn/Varendra-TV.jpg",Varendra TV
-
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/tRKzj7Vk/Times-24.jpg",US-BD Journal 24 TV
-http://208.86.19.13:81/510.stream/index.m3u8
 
 
 
