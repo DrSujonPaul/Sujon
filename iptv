@@ -180,7 +180,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=2202800.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/4NVxpW6t/Maasranga.jpg",Maasranga TV
-
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/4NVxpW6t/Maasranga.jpg",Magic Bangla TV
 
@@ -207,7 +207,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-vid
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/Jndww2tm/News-24-HD.jpg",News 24 HD
-
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/Q3pnrdLs/Nexus-TV.jpg",Nexus TV
 
@@ -261,7 +261,7 @@ http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
 http://87.255.35.150:18891
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/jSPkL6ZT/Star-Sports-1-HD-Hindi.jpg",Star Sports 1 Hindi HD
-http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+http://87.255.35.150:18923
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Star Sports 2 HD
 http://stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8
@@ -310,7 +310,7 @@ https://dai.google.com/linear/hls/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8
 http://66.102.120.18:8000/play/a032
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/VpLFC41v/Astro-Cricket.jpg",Astro Cricket
-https://smart.bengaldigital.live/AstroCricket/index.m3u8
+http://178.33.239.54:8080/503a/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/VpLFC41v/Astro-Cricket.jpg",Astro Football
 https://smart.bengaldigital.live/AstroFootball/index.m3u8
@@ -350,11 +350,13 @@ http://175.107.244.52:4456/play/a042
 http://66.102.120.18:8000/play/a04w/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g0XYC8FP/Sky-Sports-Cricket.jpg",Sky Sports Cricket
-
+http://178.33.239.54:8080/503a/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g0XYC8FP/Sky-Sports-Cricket.jpg",Sky Sports Arena
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19128/index.m3u8
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g0XYC8FP/Sky-Sports-Cricket.jpg",Sky Sports Football
+http://178.33.239.54:8080/500a/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/g0XYC8FP/Sky-Sports-Cricket.jpg",Sky Sports Basket
 http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19134/index.m3u8
