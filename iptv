@@ -277,8 +277,6 @@ http://103.182.170.32:8888/play/a040
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Star Sports 2 HD Hindi
-http://103.140.254.2:3500/live/1984.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Star Sports 2 HD Hindi
 http://103.182.170.32:8888/play/a04p
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/ryHX6q6V/Star-Sports-3.jpg",Star Sports 3
@@ -474,8 +472,6 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg",Colors HD
-http://103.140.254.2:3500/live/144.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/J4n7YN2D/Colors.jpg",Colors HD
 http://217.20.112.199:8888/ColorsHD/index.m3u8
 
 
@@ -668,14 +664,11 @@ https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 http://103.175.242.10:8080/cnhd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
-http://103.140.254.2:3500/live/1079.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
-http://103.140.254.2:3500/live/816.m3u8
+
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Kids
 https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Kids 
-http://103.140.254.2:3500/live/554.m3u8
+
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Disney Junior
 http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
@@ -693,21 +686,19 @@ https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Nick
-http://103.140.254.2:3500/live/545.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Nick
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Nick HD+
-http://103.140.254.2:3500/live/1226.m3u8
+
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Nick Jr.
-http://103.140.254.2:3500/live/544.m3u8
+
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Pogo
-http://103.140.254.2:3500/live/559.m3u8
+
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Planet Fun HD
 
@@ -719,7 +710,7 @@ http://103.140.254.2:3500/live/559.m3u8
 
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Sonic
-http://103.140.254.2:3500/live/815.m3u8
+
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
@@ -801,7 +792,7 @@ http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/fTyctVD3/Discovery-HD.jpg",Discovery Turbo
-http://103.140.254.2:3500/live/541.m3u8
+
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Histoire HD
 http://151.80.18.177:86/Histoire/index.m3u8
