@@ -269,7 +269,7 @@ https://mrgifytv.pages.dev/bpl/asports/index.m3u8
 http://103.182.170.32:8888/play/a040
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/jSPkL6ZT/Star-Sports-1-HD-Hindi.jpg",Star Sports 1 Hindi HD
-
+http://103.140.254.2:3500/live/1998.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Star Sports 2 HD
 
@@ -472,7 +472,7 @@ http://217.20.112.199:8888/ColorsHD/index.m3u8
 
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Colors Cineplex HD
-
+http://103.140.254.2:3500/live/482.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/CKg6KVX3/Zee-TV-HD.jpg",Colors Cineplex Bollywood
 
@@ -492,6 +492,8 @@ http://217.20.112.199:8888/sabtvhd/index.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/yYmcX2Ds/Sony-SAB-HD.jpg",Sab TV
 
 
+#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony TV
+http://103.140.254.2:3500/live/551.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/x1tfkwJb/Sony-TV.jpg",Sony TV
 http://217.20.112.199/sethd/index.m3u8
 
@@ -813,15 +815,19 @@ http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",CNN HD
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
+
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",DW
+http://103.140.254.2:3500/live/496.m3u8
+
+
+
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",RTVi
 
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Al Jazeera English HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-
-
-
-
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Al Jazeera English HD
+http://103.140.254.2:3500/live/494.m3u8
 
 
 
