@@ -834,8 +834,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Al Jazeera English HD
 http://103.140.254.2:3500/live/494.m3u8
 
-
-
+#EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Northeast Live
+http://103.140.254.2:3500/live/637.m3u8
 
 
 
