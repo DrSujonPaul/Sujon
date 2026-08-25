@@ -126,7 +126,7 @@ https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/cJHPmjNJ/BTV.jpg",BTV
-http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/76p1QShQ/BTV-Chattogram.jpg",BTV Chattogram
 
@@ -658,7 +658,7 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/pLG976s5/Sangeet-Bangla.jpg",Sangeet Bangla
-http://103.175.73.12:8080/live/379/379_0.m3u8
+
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/MGP3pRsh/Balle-Balle.jpg",TNT Music
 https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
@@ -940,7 +940,7 @@ http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
 
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Al Jazeera English HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://i.postimg.cc/xjPwbDSS/RTA-Sport.jpg",Zee Cafe
 
