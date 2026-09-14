@@ -300,6 +300,8 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Star Sports 2 HD
 https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Star Sports 2 HD
+http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3NGbmgY2/Star-Sports-2.jpg",Star Sports 2 Hindi HD 
 
